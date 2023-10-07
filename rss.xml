@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Caleb Huitt</title>
+        <link>https://cjhuitt.com/</link>
+        <description>Personal page and blog of Caleb Huitt</description>
+        <generator>Hugo 0.119.0 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+        
+        
+            <copyright>©️ Caleb Huitt</copyright>
+        
+        <lastBuildDate>Sat, 07 Oct 2023 14:45:37 -0500</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://cjhuitt.com/rss.xml" />
+        
+        
+    </channel>
+</rss>

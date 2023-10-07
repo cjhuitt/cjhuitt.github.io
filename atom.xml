@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">Caleb Huitt</title>
+    <subtitle type="html">Personal page and blog of Caleb Huitt</subtitle>
+    <updated>2023-10-07T14:45:37-05:00</updated>
+    <id>https://cjhuitt.com/</id>
+    <link rel="alternate" type="text/html" href="https://cjhuitt.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://cjhuitt.com/atom.xml" />
+    <author>
+            <name>Caleb Huitt</name>
+            <uri>https://cjhuitt.com/</uri>
+            </author>
+    <rights>©️ Caleb Huitt</rights>
+    <generator uri="https://gohugo.io/" version="0.119.0">Hugo</generator>
+</feed>
