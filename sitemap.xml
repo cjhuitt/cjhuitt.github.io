@@ -2,17 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cjhuitt.com/</loc>
+    <lastmod>2023-10-07T20:30:59-05:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/categories/</loc>
+    <lastmod>2023-10-07T20:30:59-05:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/tags/kickstarter/</loc>
+    <lastmod>2023-10-07T20:30:59-05:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/posts/mandatory_failure/</loc>
+    <lastmod>2023-10-07T20:30:59-05:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/posts/</loc>
+    <lastmod>2023-10-07T20:30:59-05:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/categories/recommendations/</loc>
+    <lastmod>2023-10-07T20:30:59-05:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/tags/schlock/</loc>
+    <lastmod>2023-10-07T20:30:59-05:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/tags/</loc>
+    <lastmod>2023-10-07T20:30:59-05:00</lastmod>
+  </url><url>
     <loc>https://cjhuitt.com/about/</loc>
     <lastmod>2023-10-07T15:41:52-05:00</lastmod>
   </url><url>
-    <loc>https://cjhuitt.com/</loc>
-    <lastmod>2023-10-07T15:46:18-05:00</lastmod>
-  </url><url>
     <loc>https://cjhuitt.com/stories/</loc>
     <lastmod>2023-10-07T15:46:18-05:00</lastmod>
-  </url><url>
-    <loc>https://cjhuitt.com/categories/</loc>
-  </url><url>
-    <loc>https://cjhuitt.com/tags/</loc>
   </url>
 </urlset>
