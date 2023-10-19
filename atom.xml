@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Caleb Huitt</title>
     <subtitle type="html">Personal page and blog of Caleb Huitt</subtitle>
-    <updated>2023-10-07T20:31:37-05:00</updated>
+    <updated>2023-10-19T11:36:46-05:00</updated>
     <id>https://cjhuitt.com/</id>
     <link rel="alternate" type="text/html" href="https://cjhuitt.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://cjhuitt.com/atom.xml" />
@@ -14,6 +14,119 @@
             </author>
     <rights>©️ Caleb Huitt</rights>
     <generator uri="https://gohugo.io/" version="0.119.0">Hugo</generator>
+        <entry>
+            <title type="text">Changing Circumstances: Code Reviews and Energy Abundance</title>
+            <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/changing_circumstances_code_reviews_and_energy_abundance/" />
+            <id>https://cjhuitt.com/posts/changing_circumstances_code_reviews_and_energy_abundance/</id>
+            <updated>2023-10-19T11:36:33-05:00</updated>
+            <published>2023-10-19T07:48:08-05:00</published>
+            <author>
+                    <name>Caleb Huitt</name>
+                    <uri>https://cjhuitt.com/</uri>
+                    </author>
+            <rights>©️ Caleb Huitt</rights><summary type="html">I&amp;rsquo;ve told a few people this story, but in the 2000s I started a new job for a company that had reworked a lot of their software development process a couple years earlier, after a disastrous software release. A lot of that process ended up being much heavier and inflexible than necessary — another story for another day — but one thing in particular stands out to me: the code review process.</summary>
+            
+                <content type="html">&lt;p&gt;I&amp;rsquo;ve told a few people this story, but in the 2000s I started a new job for a
+company that had reworked a lot of their software development process a couple
+years earlier, after a disastrous software release.  A lot of that process
+ended up being much heavier and inflexible than necessary — another story for
+another day — but one thing in particular stands out to me: the code review
+process.&lt;/p&gt;
+&lt;p&gt;More specifically, one quirk of the code review process.&lt;/p&gt;
+&lt;p&gt;When the developers were faced with the need for process, they
+did what most people might… they looked around and adopted from
+well-regarded companies&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://cjhuitt.com/posts/changing_circumstances_code_reviews_and_energy_abundance/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. That company was IBM.&lt;/p&gt;
+&lt;p&gt;Like many things you might expect from IBM, the process was formal and
+detailed. The code reviews involved 4 or more people, all with their own roles
+— author, moderator, reader, and reviewer. These people were supposed to gather
+in a meeting room with a printed copy of the code diffs and proceed through the
+rest of the formal review process.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m already imaging readers wincing, but there&amp;rsquo;s one detail forever ingrained
+in my memory: the process specified the code review was to happen &lt;em&gt;before the
+developer compiled their code&lt;/em&gt;, or ran it.&lt;/p&gt;
+&lt;p&gt;Let that sink in a bit: rather than have one developer run an (at the time)
+2-15 minute compile, the process said 4 software developers should sit in a
+room for a minimum of 30 minutes (and usually an hour or more&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;https://cjhuitt.com/posts/changing_circumstances_code_reviews_and_energy_abundance/#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;). In what
+world does that even make sense?&lt;/p&gt;
+&lt;p&gt;Bear in mind this process came from IBM (though I&amp;rsquo;m not convinced they still
+used it at the time). It was published by senior developers at the company…
+ones who had decades of experience. And there is one of the keys — the process
+came from experience decades old. From a company known for their mainframe
+computers.&lt;/p&gt;
+&lt;p&gt;At one time, computing resources were scarce. People had to schedule time to
+have their program run (perhaps even loading it via punch cards), and if
+something went wrong during that time, they either fixed it during their time
+slot or waited for another time slot (days or weeks later) to try again.&lt;/p&gt;
+&lt;p&gt;In that sort of environment, the costs of a bug could mean the loss of a week
+or more, and the cycle time to test and adapt the code equally long. Those
+costs meant that spending 10 or even 20 collective developer-hours reviewing
+the code might still cost less than one mistake. In that environment, doing a
+code review prior to compile or run absolutely made sense.&lt;/p&gt;
+&lt;p&gt;Then circumstances changed. PCs proliferated. Soon enough you had a
+computer on most developer&amp;rsquo;s desks that was waiting around twiddling its
+virtual thumbs looking for something to do.&lt;/p&gt;
+&lt;p&gt;Thus, what once made complete sense now seems nonsensical. But processes and
+habits took longer to catch up&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;https://cjhuitt.com/posts/changing_circumstances_code_reviews_and_energy_abundance/#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; — even for a group of people who generally
+all disliked the heavyweight code review process as it was.&lt;/p&gt;
+&lt;p&gt;I was reminded of this when reading &lt;a href=&#34;https://pluralistic.net/2023/10/17/care-work/#charismatic-megaprojects&#34;&gt;Cory Doctorow&amp;rsquo;s book
+review&lt;/a&gt;
+of &lt;a href=&#34;https://www.penguinrandomhouse.com/books/612711/how-infrastructure-works-by-deb-chachra/&#34;&gt;How Infrastructure Works by Deb
+Chachra&lt;/a&gt;,
+which turned my perception of the constraints between manufacturing and energy
+usage on its head:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt; We&amp;rsquo;ve spent millennia treating &lt;em&gt;energy as scarce&lt;/em&gt;, despite the fact that
+fresh supplies of it arrive on Earth with every sunrise and every moonrise.
+Moreover, we&amp;rsquo;ve spent that same period treating &lt;em&gt;materials as infinite&lt;/em&gt; despite
+the fact that we&amp;rsquo;ve got precisely one Earth&amp;rsquo;s worth of stuff [&amp;hellip;]&lt;/p&gt;
+&lt;p&gt; Chachra proposes that we could – we must – treat material as scarce, and that
+one way to do this is to recognize that energy is &lt;em&gt;not&lt;/em&gt;. We can trade energy
+for material, opting for more energy intensive manufacturing processes that
+make materials easier to recover when the good reaches its end of life. We can
+also opt for energy intensive material recovery processes.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We aren&amp;rsquo;t there yet — right now the majority of our energy still derives from
+materials pulled out of the ground — but we could be there soon. From the same
+article, our current total energy needs use &lt;em&gt;less than 1%&lt;/em&gt; of the solar energy
+that reaches the earth. Once we have enough renewable energy to cover our
+existing needs, things that once looked nonsensical may suddenly make a lot of
+sense.  Like spending a lot more energy recycling material back into usable
+forms.&lt;/p&gt;
+&lt;p&gt;This idea genuinely delights me, and I can&amp;rsquo;t wait to see how things might adapt
+when we get there.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;A method full of pitfalls — also a topic for another day&amp;#160;&lt;a href=&#34;https://cjhuitt.com/posts/changing_circumstances_code_reviews_and_energy_abundance/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Since the process was so heavyweight, reviews grew large so developers
+could (supposedly) minimize their time involved with it.&amp;#160;&lt;a href=&#34;https://cjhuitt.com/posts/changing_circumstances_code_reviews_and_energy_abundance/#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;There was an exception for a &amp;ldquo;desktop review&amp;rdquo; with only one other person,
+for minor changes. I (and a couple others) latched onto that and made most of
+our changes minor (a good habit anyway), and the practice spread, and
+eventually nobody was doing the full review part of the process. Then I was
+able to get that part of the process removed, since we weren&amp;rsquo;t even doing it.&amp;#160;&lt;a href=&#34;https://cjhuitt.com/posts/changing_circumstances_code_reviews_and_energy_abundance/#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Kickstarter for Schlock Mercenary: Mandatory Failure</title>
             <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/mandatory_failure/" />
