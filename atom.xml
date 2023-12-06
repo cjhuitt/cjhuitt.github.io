@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Caleb Huitt</title>
     <subtitle type="html">Personal page and blog of Caleb Huitt</subtitle>
-    <updated>2023-10-21T10:42:53-05:00</updated>
+    <updated>2023-12-06T15:39:12-06:00</updated>
     <id>https://cjhuitt.com/</id>
     <link rel="alternate" type="text/html" href="https://cjhuitt.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://cjhuitt.com/atom.xml" />
@@ -13,7 +13,7 @@
             <uri>https://cjhuitt.com/</uri>
             </author>
     <rights>©️ Caleb Huitt</rights>
-    <generator uri="https://gohugo.io/" version="0.119.0">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.120.4">Hugo</generator>
         <entry>
             <title type="text">Changing Circumstances: Code Reviews and Energy Abundance</title>
             <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/changing_circumstances_code_reviews_and_energy_abundance/" />
@@ -254,6 +254,2359 @@ were still story, and still with the characters I showed up to read about.&amp;#
                             
                             
                                 <category scheme="https://cjhuitt.com/tags/kickstarter/" term="kickstarter" label="kickstarter" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Speech Acts: Adding Clarity to Communication</title>
+            <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/speech_acts_clarity/" />
+            <id>https://cjhuitt.com/posts/speech_acts_clarity/</id>
+            <updated>2023-12-06T15:21:19-06:00</updated>
+            <published>2020-04-12T19:24:19-06:00</published>
+            <author>
+                    <name>Caleb Huitt</name>
+                    <uri>https://cjhuitt.com/</uri>
+                    </author>
+            <rights>©️ Caleb Huitt</rights><summary type="html">In the past few months, SARS-CoV-2 and COVID-19 have swept through much of the world and disrupted societal patterns everywhere – including how we get our work done. Software development is primarily knowledge work and not generally tethered to any one particular location, so we’ve been lucky that we can keep our jobs and keep working even during the various emergency declarations in place.</summary>
+            
+                <content type="html">&lt;p&gt;In the past few months, SARS-CoV-2 and COVID-19 have swept through much of the
+world and disrupted societal patterns everywhere – including how we get our
+work done.  Software development is primarily knowledge work and not generally
+tethered to any one particular location, so we’ve been lucky that we can keep
+our jobs and keep working even during the various emergency declarations in
+place.  Others are not so lucky, and I acknowledge that.&lt;/p&gt;
+&lt;p&gt;Even with our advantages, however, this has led to disruptions – large swaths
+of software developers are now working remotely when they had not previously
+done so.  Many teams are experiencing this for the first time, and it’s
+naturally led to some uncertainty and almost certainly a lack of productivity.
+It’s ok to acknowledge this as well, and look at where we are now in order and
+take a deep breath. Then keep making those small improvements, because in the
+midst of a forced change, those small improvements can make a wonderful
+difference.&lt;/p&gt;
+&lt;p&gt;One of the difficulties I (and many others) have been dealing with is the extra
+bit of effort it takes to communicate when you can’t just meet someone in the
+hall and have a face-to-face discussion – the bandwidth for conversations is
+unavoidably reduced right now, even with good video chat.  And it’s easier to
+be distracted by email that just popped up while you were chatting – I’m sorry,
+what was that again?  Right.&lt;/p&gt;
+&lt;p&gt;One improvement we can make – everyone together or everyone distributed, or
+anywhere in between – is to improve the clarity of our language.&lt;/p&gt;
+&lt;h2 id=&#34;say-what-you-really-mean&#34;&gt;Say What You Really Mean&lt;/h2&gt;
+&lt;p&gt;I had the privilege of attending a session at a &lt;a href=&#34;https://www.humanizingwork.com&#34;&gt;Humanizing
+Work&lt;/a&gt; conference about clarity in language
+titled &lt;strong&gt;Say What You Really Mean&lt;/strong&gt;, run by Dallas Hinesly and Richard
+Lawrence.  It introduced me to the concept of Speech Acts Theory and some of
+the ways it can be applied at work to improve clarity of communication.  Much
+of this is based on notes from their session, along with subsequent reading and
+a good amount of percolating.&lt;/p&gt;
+&lt;p&gt;An aside – if you have a chance to attend the Humanizing Work conference, I
+highly recommend it.  Every year I’ve gone I’ve learned at least a few things
+that are immediately beneficial to my job, plus a bunch more to bounce around
+in my head and make random connections.  I’m hoping travel restrictions don’t
+end up torpedoing the event this year.&lt;/p&gt;
+&lt;p&gt;Speech Acts Theory categorizes and splits different parts of speaking into five
+things that humans hope to accomplish by speaking. Here I’m dwelling on only
+two categories of speech acts (and touching on a third).  I call these two
+categories Asks and Responses (not the original category names as far as I’m
+aware).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/speech_acts/ask_response.jpeg&#34; alt=&#34;Two stick figures, one holding a coffee cup and saying &amp;ldquo;ask&amp;rdquo;, the otherlooking back and saying &amp;ldquo;response&amp;rdquo;.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I hope the meaning is straightforward, but to make sure everyone is clear, an
+&lt;strong&gt;ask&lt;/strong&gt; is something communicated by one person that might instigate different
+behavior in one or more of the people receiving the communication. A
+&lt;strong&gt;response&lt;/strong&gt; is a communication back to the person who originated asked
+something to indicate if certain behavior will occur. The types of each shown
+below should add clarity to this formal definition&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/speech_acts/chart.jpeg&#34; alt=&#34;A hand-drawn table with two columns.  The first has &amp;ldquo;ASKS&amp;rdquo; in the header, andentries of &amp;ldquo;Offer&amp;rdquo;, &amp;ldquo;Invite&amp;rdquo;, &amp;ldquo;Request&amp;rdquo;, &amp;ldquo;Propose&amp;rdquo;, and &amp;ldquo;Demand/Require&amp;rdquo;.  Thesecond column has &amp;ldquo;RESPONSES&amp;rdquo; in the header, and entries of &amp;ldquo;Agree/Accept&amp;rdquo;,&amp;ldquo;Decline/Reject&amp;rdquo;, and  &amp;ldquo;Counter&amp;rdquo;.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Asks&lt;/strong&gt; are English words that most people probably instinctively understand,
+but part of clarity is being explicit about exactly what is meant:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To &lt;strong&gt;Offer&lt;/strong&gt; is when the asker will give or provide something that will
+likely be of value to the responder(s), but has less value or requires some
+work for the asker.&lt;/li&gt;
+&lt;li&gt;To &lt;strong&gt;Invite&lt;/strong&gt; is when the asker would like the responder(s) to go somewhere
+or do something together with the asker.&lt;/li&gt;
+&lt;li&gt;To &lt;strong&gt;Propose&lt;/strong&gt; is when the asker would like the responder(s) all agree to
+pursue something that would be beneficial but needs coordination and effort
+from others.&lt;/li&gt;
+&lt;li&gt;To &lt;strong&gt;Request&lt;/strong&gt; is when the asker wants the responder(s) to do something that
+will be valuable to the asker, but might be of less value or require work of
+the responder(s).&lt;/li&gt;
+&lt;li&gt;To &lt;strong&gt;Require&lt;/strong&gt; or &lt;strong&gt;Demand&lt;/strong&gt; is when the asker is working from a position of
+authority and indicates the responder(s) have no choice in doing the action
+the asker details.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Likewise, &lt;strong&gt;Responses&lt;/strong&gt; are pretty straightforward, especially in the context
+of an explicit ask:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To &lt;strong&gt;Agree&lt;/strong&gt; or &lt;strong&gt;Accept&lt;/strong&gt; is when the responder indicates to the asker that
+they will do the action in the ask&lt;/li&gt;
+&lt;li&gt;To &lt;strong&gt;Decline&lt;/strong&gt; or &lt;strong&gt;Reject&lt;/strong&gt; is when the responder indicates to the asker the
+they will not do the action in the ask&lt;/li&gt;
+&lt;li&gt;To &lt;strong&gt;Counter&lt;/strong&gt; is to offer an alternative ask back to the asker (thus
+temporarily reversing roles; the original asker should now use a response for
+the counter)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;using-the-keywords&#34;&gt;Using the Keywords&lt;/h2&gt;
+&lt;p&gt;There are two ways these can really be used.  In the first, if you are the
+asker, you think through the types of asks and decide which one this falls in,
+and phrase your ask in such a way to properly convey the type.  In the second,
+you share the knowledge of the key words for each type, and use those key words
+in your asks and responses.&lt;/p&gt;
+&lt;p&gt;Naturally, if you really want to be clear, I suggest the second – and if you do
+the work of the first, it will naturally end up happening most of the time
+without any extra effort.  After introducing these to people I work with, I’ve
+taken to making them the first word in an email subject, or in an IM that is
+trying to create an action on their part.&lt;/p&gt;
+&lt;h2 id=&#34;a-third-keyword-and-category&#34;&gt;A Third Keyword and Category&lt;/h2&gt;
+&lt;p&gt;One more action that commonly occurs in a work setting is giving people
+information so that they have the information handy in order to use as they
+decide they need it.  You could perhaps twist that into an “Offer:
+information”, but that would not be a very clear subject line for most emails.&lt;/p&gt;
+&lt;p&gt;Instead, I offer one more category, that of &lt;strong&gt;Inform&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To &lt;strong&gt;Inform&lt;/strong&gt; or &lt;strong&gt;Info&lt;/strong&gt; is when the communicator is passing information
+along with no change in behavior needed or desired from the recipient(s) of
+the communication.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Like the asks, I try to prefix the email subject or the IM with the &lt;strong&gt;Info&lt;/strong&gt;
+keyword to let the recipient know that no change in behavior is necessary.&lt;/p&gt;
+&lt;h2 id=&#34;tips-and-tricks&#34;&gt;Tips and Tricks&lt;/h2&gt;
+&lt;h3 id=&#34;dont-mix-and-match&#34;&gt;Don’t Mix and Match&lt;/h3&gt;
+&lt;p&gt;In any given communication, try not to mix the different categories of Ask,
+Respond, or Inform.  If you really think it makes sense to do so (like an email
+with information to explain a request), either use the keyword that indicates
+action needed, or use both keywords right up front so the recipients of the
+communication know what to expect. This is especially important in emails, less
+so in an ongoing back-and-forth IM session or real-time voice discussion.&lt;/p&gt;
+&lt;h3 id=&#34;push-for-clear-responses&#34;&gt;Push for Clear Responses&lt;/h3&gt;
+&lt;p&gt;You might notice that the responses don’t include “ok”, “yeah”, or “uh-huh”.
+This is because in English, those words have overloaded meanings – they might
+mean “accept”, but they might mean “I heard you” or “I understand” without
+meaning an acceptance.  Pushing for a clear “I accept” or “I decline” (or other
+non-ambiguous words) means everyone understands the acceptance or rejection.&lt;/p&gt;
+&lt;p&gt;Not pushing for the clear response is very frequently the downfall of meetings,
+where later you’ll hear someone say “I didn’t agree to that”, and everyone will
+have to have another meeting to make sure all participants are clear on what is
+being agreed to.  Save yourself some time and heartache and get the clarity
+before leaving the first meeting.&lt;/p&gt;
+&lt;h3 id=&#34;individuals-respond&#34;&gt;Individuals Respond&lt;/h3&gt;
+&lt;p&gt;If there are a group of people responding, each individual needs to respond (or
+someone with the recognized authority to respond on behalf of a group).  Again,
+otherwise it’s easy to end up needing a second meeting to make sure everyone is
+clear on who is doing what.&lt;/p&gt;
+&lt;h3 id=&#34;actions-can-stand-in-for-responses&#34;&gt;Actions Can Stand In For Responses&lt;/h3&gt;
+&lt;p&gt;There can be many situations in a work setting where doing the action is an
+implicit accept of an ask – for example, if I email a request for a document
+from Pat, they don’t have to reply with “accept” and the document attached.
+The presence of the document lets me know it was accepted.&lt;/p&gt;
+&lt;h3 id=&#34;askresponse-pairs-nest&#34;&gt;Ask/Response Pairs Nest&lt;/h3&gt;
+&lt;p&gt;Frequently, prior to responding, the responder(s) might ask for clarification.
+This happens in the natural place for a response, but isn’t itself a response.
+Instead, it’s the beginning of a new, nested ask/response where the ask is a
+request for clarity, and the asker will presumably accept the request by
+providing more information, which then drops out of the nested ask and leaves
+the original responder yet to respond. As a software developer, I tend to view
+these like nested HTML tags – close the nested ask/response communication
+before closing the outer one, if possible.&lt;/p&gt;
+&lt;h3 id=&#34;really-use-the-keywords&#34;&gt;Really, Use the Keywords&lt;/h3&gt;
+&lt;p&gt;The simple act of deciding to use the appropriate keyword in your
+communication, especially for asks, will usually cause you to think about what
+exactly it is you are doing with the ask, and make that clear to the recipient.
+For example, it’s common for a phrase such as “I’d appreciate it if you could
+fill out your time card” to be used either as a request or a demand, but which
+is it?  By context, it’s likely a demand, but maybe it’s not?&lt;/p&gt;
+&lt;p&gt;By adding the appropriate keyword, extra parts that need clarity are brought to
+the surface:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“&lt;strong&gt;Request:&lt;/strong&gt; Fill out your time card.”  By phrasing it as a request, it’s
+now clear that the responder(s) can decline – but if that’s the case, what
+value is there at all in filling it out?  If the responder(s) may not know,
+adding that to the request might help.  Perhaps it’s to run some preliminary
+billing info for a client?  If so, there’s probably a deadline after which it
+wouldn’t matter.  Adding those details might turn it into something like
+“&lt;strong&gt;Request:&lt;/strong&gt; Fill out your time card by 5 PM to help with a preliminary time
+&amp;amp; mat estimate for Acme Corp”&lt;/li&gt;
+&lt;li&gt;“&lt;strong&gt;Required:&lt;/strong&gt; Fill out your time card.” Phrased as a demand, it’s now clear
+the responder(s) aren’t supposed to decline (or some undesirable response
+will happen related to their employment).  How will the compliance be
+evaluated, though?  It’s still missing a time, at least.  “&lt;strong&gt;Required:&lt;/strong&gt; Fill
+out your time card before you leave for the weekend.” is better yet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;sources&#34;&gt;Sources&lt;/h2&gt;
+&lt;p&gt;Besides my notes and noodling, the primary source seems to be Searle’s
+&lt;a href=&#34;https://www.cambridge.org/core/books/speech-acts/D2D7B03E472C8A390ED60B86E08640E7&#34;&gt;academic
+work&lt;/a&gt;
+on Speech Acts Theory.  As is frequently the case, &lt;a href=&#34;https://en.wikipedia.org/wiki/Speech_act&#34;&gt;Wikipedia has an
+overview&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This post originally appeared on management-kaizen.com&lt;/em&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/categories/management-kaizen/" term="Management Kaizen" label="Management Kaizen" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/communication/" term="communication" label="communication" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/clarity/" term="clarity" label="clarity" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/systems/" term="systems" label="systems" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Dedicated Time for Improvement: Running the Numbers</title>
+            <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/dedicated_improvement_time/" />
+            <id>https://cjhuitt.com/posts/dedicated_improvement_time/</id>
+            <updated>2023-12-06T14:50:35-06:00</updated>
+            <published>2019-12-31T16:54:39-06:00</published>
+            <author>
+                    <name>Caleb Huitt</name>
+                    <uri>https://cjhuitt.com/</uri>
+                    </author>
+            <rights>©️ Caleb Huitt</rights><summary type="html">Say you want to make an improvement to your work processes. How much time is feasible to spend making that improvement? I think most people assume it’s smaller than the math actually bears out.
+Let’s start with a really simple check using easy numbers.</summary>
+            
+                <content type="html">&lt;p&gt;Say you want to make an improvement to your work processes.  How much time is
+feasible to spend making that improvement?  I think most people assume it’s
+smaller than the math actually bears out.&lt;/p&gt;
+&lt;p&gt;Let’s start with a really simple check using easy numbers.  Assume:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;40-hour work weeks&lt;/li&gt;
+&lt;li&gt;50 working weeks in a year&lt;/li&gt;
+&lt;li&gt;1% improvement&lt;/li&gt;
+&lt;li&gt;Payoff in 1 year&lt;/li&gt;
+&lt;li&gt;100% certainty of achieving the improvement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Simple multiplication of the formula&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Years * Weeks/Year * Hours/Week * Improvement * Certainty&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gives 20 hours to obtain that 1% improvement. 2.5 days. Half a work-week.&lt;/p&gt;
+&lt;p&gt;Is that enough?  I’ve seen many slowdowns that could be significantly improved
+with 20 hours of effort, possibly enough to make a 1% improvement.  But those
+are just sample numbers. What drives the biggest changes?&lt;/p&gt;
+&lt;h2 id=&#34;variations&#34;&gt;Variations&lt;/h2&gt;
+&lt;p&gt;Let’s vary individual inputs to get an idea how they interplay.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Weeks Per Year&lt;/th&gt;
+&lt;th&gt;44&lt;/th&gt;
+&lt;th&gt;46&lt;/th&gt;
+&lt;th&gt;48&lt;/th&gt;
+&lt;th&gt;50&lt;/th&gt;
+&lt;th&gt;52&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Improvement Hours&lt;/td&gt;
+&lt;td&gt;17.6&lt;/td&gt;
+&lt;td&gt;18.4&lt;/td&gt;
+&lt;td&gt;19.2&lt;/td&gt;
+&lt;td&gt;20.0&lt;/td&gt;
+&lt;td&gt;20.8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;As you can see, the number of working weeks in a year doesn’t significantly
+alter the time you can dedicate to it – if you have 6 weeks time off (vacation,
+holiday, personal, etc), the payoff allows for 18 hours instead of 20 – not a
+significant change.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Hours Per Week&lt;/th&gt;
+&lt;th&gt;36&lt;/th&gt;
+&lt;th&gt;40&lt;/th&gt;
+&lt;th&gt;45&lt;/th&gt;
+&lt;th&gt;50&lt;/th&gt;
+&lt;th&gt;60&lt;/th&gt;
+&lt;th&gt;80&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Improvement Hours&lt;/td&gt;
+&lt;td&gt;18&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;22.5&lt;/td&gt;
+&lt;td&gt;25&lt;/td&gt;
+&lt;td&gt;30&lt;/td&gt;
+&lt;td&gt;40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Obviously, if you work fewer hours each week, it allows for less time
+investment, and more hours worked per week allows more time investment – but
+spending 40 hours of an 80-hour work week is still spending just half the week
+(hopefully you can do that a few times and use the time saved to work less).&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Percent Improvement&lt;/th&gt;
+&lt;th&gt;0.5&lt;/th&gt;
+&lt;th&gt;1.0&lt;/th&gt;
+&lt;th&gt;1.5&lt;/th&gt;
+&lt;th&gt;2.0&lt;/th&gt;
+&lt;th&gt;2.5&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Improvement Hours&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;30&lt;/td&gt;
+&lt;td&gt;40&lt;/td&gt;
+&lt;td&gt;50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Not much to say… but if you can find something that makes you 2% more
+efficient, you can spend a week on it and still have it pay off within a year.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Certainty of Improvement&lt;/th&gt;
+&lt;th&gt;50&lt;/th&gt;
+&lt;th&gt;75&lt;/th&gt;
+&lt;th&gt;90&lt;/th&gt;
+&lt;th&gt;100&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Improvement Hours&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;18&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;This is a linear scale on the amount of time that can be invested – the more
+uncertain, the less time allowed to create a margin of safety.&lt;/p&gt;
+&lt;p&gt;I’ve generally found that the margin of safety and percent improvement are
+correlated; as the amount considered feasible for improvement goes up, the odds
+of mistaking the amount of improvement go up, so a higher margin of safety is
+required.  I tend to balance these by just sticking with my initial
+assumptions.&lt;/p&gt;
+&lt;h3 id=&#34;future-years&#34;&gt;Future Years&lt;/h3&gt;
+&lt;p&gt;Let’s say you could consider more than the current year when accounting for the
+improvement. That usually involves discounting the future amount (saving time
+in the future isn’t as valuable as saving time now). Below is a simple table
+showing the improvement hours allowed for different additional years and
+discount values on those years.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Years Out&lt;/th&gt;
+&lt;th&gt;0&lt;/th&gt;
+&lt;th&gt;1&lt;/th&gt;
+&lt;th&gt;2&lt;/th&gt;
+&lt;th&gt;3&lt;/th&gt;
+&lt;th&gt;4&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0% Discount Rate&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;40&lt;/td&gt;
+&lt;td&gt;80&lt;/td&gt;
+&lt;td&gt;120&lt;/td&gt;
+&lt;td&gt;160&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10% Discount Rate&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;38&lt;/td&gt;
+&lt;td&gt;54&lt;/td&gt;
+&lt;td&gt;68&lt;/td&gt;
+&lt;td&gt;80&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;20% Discount Rate&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;36&lt;/td&gt;
+&lt;td&gt;48&lt;/td&gt;
+&lt;td&gt;56&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;60&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;30% Discount Rate&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;34&lt;/td&gt;
+&lt;td&gt;42&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;46&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;–&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;40% Discount Rate&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;32&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;36&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;–&lt;/td&gt;
+&lt;td&gt;–&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;50% Discount Rate&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;30&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;–&lt;/td&gt;
+&lt;td&gt;–&lt;/td&gt;
+&lt;td&gt;–&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The number of years out should be chosen by how long into the future the
+process improvement is likely to be valid, and the discount rate by how certain
+you are of that future.&lt;/p&gt;
+&lt;p&gt;Example 1: You improve the process for updating a vital component of a website
+so it saves 1% of your time, and it will be in use as long as the current
+product is in use, but there’s a high chance of a new technology requiring a
+rewrite. You might choose 4 additional years but have a 30% discount due to the
+chances of rewrites.&lt;/p&gt;
+&lt;p&gt;Example 2: You improve the process for that same vital component. That
+component is road-mapped to be replaced in 3 years. It’s scheduled to be used
+at least until then, so you might use the table for 2 additional years, but
+only a 10% discount.&lt;/p&gt;
+&lt;h2 id=&#34;putting-it-all-together&#34;&gt;Putting It All Together&lt;/h2&gt;
+&lt;p&gt;I ran a 50,000 Monte Carlo simulation and it showed the following distribution:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/improvement_time_distribution.png&#34; alt=&#34;A bell curve graph of the times each discrete number was the result. Thegraph goes up quickly from 0, peaks around 34 hours with 2% of thedistribution, and trails off more slowly toward 125hours.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;It showed an average allowed time of approximately 40 hours, with a standard
+deviation of about 19.5 hours… which means the simple math of spending 20 hours
+to obtain a 1% improvement is a pretty good bet&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://cjhuitt.com/posts/dedicated_improvement_time/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;but-thats-not-enough&#34;&gt;But That’s Not Enough!&lt;/h2&gt;
+&lt;p&gt;If 20 hours doesn’t sound like enough, perhaps you should go through the
+calculations yourself, using your own numbers for all of the variables.  It
+might be higher (or, if you’re uncertain as to the improvement, it might be
+lower).&lt;/p&gt;
+&lt;p&gt;Before you do, however, consider…&lt;/p&gt;
+&lt;p&gt;Most people doing software development right now work in &lt;em&gt;teams&lt;/em&gt; rather than as
+individuals.  Due to the ease of sharing code improvements, and the likelihood
+that process improvements would apply to multiple people in the company, the
+numbers start ballooning:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;# of Developers Impacted&lt;/th&gt;
+&lt;th&gt;1&lt;/th&gt;
+&lt;th&gt;2&lt;/th&gt;
+&lt;th&gt;3&lt;/th&gt;
+&lt;th&gt;5&lt;/th&gt;
+&lt;th&gt;10&lt;/th&gt;
+&lt;th&gt;25&lt;/th&gt;
+&lt;th&gt;50&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Improvement Hours&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;40&lt;/td&gt;
+&lt;td&gt;60&lt;/td&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;200&lt;/td&gt;
+&lt;td&gt;500&lt;/td&gt;
+&lt;td&gt;1000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;This is the real benefit of the improvements – and where you can argue for
+spending a lot of time.  It’s why companies can afford someone working on
+developer-efficiency tasks much earlier than many do: possibly as early as 3-4
+other developers. With 4 other developers and given just one week to make a
+process improvement, it pays off up to double-fold.&lt;/p&gt;
+&lt;p&gt;And those improvements continue to compound.&lt;/p&gt;
+&lt;p&gt;This is another reason why I say that &lt;a href=&#34;https://cjhuitt.com/posts/iron_triangle/&#34;&gt;quality trumps other considerations&lt;/a&gt;; given the leverage inherent in a system like software
+development, where the primary cost is the salaries of the developers, it’s
+pretty easy to imagine a company reaping a positive feedback loop on process
+improvements for years.&lt;/p&gt;
+&lt;h2 id=&#34;spend-the-new-year-improving-things&#34;&gt;Spend the New Year Improving Things&lt;/h2&gt;
+&lt;p&gt;If your workplace is anything like mine, you probably have some ideas where you
+might be able to improve your process by 1%.  Maybe take some of the numbers
+from this post and make a new-years resolution to make some improvements at
+work.  You’ll produce more, and you’ll probably be happier to boot.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This post originally appeared on management-kaizen.com&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Assuming &lt;a href=&#34;https://github.com/cjhuitt/simple_kaizen_monte_carlo/blob/master/monte.py&#34;&gt;my
+inputs&lt;/a&gt;
+were realistic.&amp;#160;&lt;a href=&#34;https://cjhuitt.com/posts/dedicated_improvement_time/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/categories/management-kaizen/" term="Management Kaizen" label="Management Kaizen" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/kaizen/" term="kaizen" label="kaizen" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/models/" term="models" label="models" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/montecarlo/" term="montecarlo" label="montecarlo" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/numbers/" term="numbers" label="numbers" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">A 10-Step Process for Properly Accepting Feedback</title>
+            <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/accepting_feedback/" />
+            <id>https://cjhuitt.com/posts/accepting_feedback/</id>
+            <updated>2023-12-06T14:18:50-06:00</updated>
+            <published>2019-12-28T11:26:06-06:00</published>
+            <author>
+                    <name>Caleb Huitt</name>
+                    <uri>https://cjhuitt.com/</uri>
+                    </author>
+            <rights>©️ Caleb Huitt</rights><summary type="html">In college, I took a number of humanities courses – I minored in English, primarily creative writing. This frequently involved putting something not very good1 in front of other students so they could tell me the different ways it didn’t work. This kickstarted my lessons on how to take that critical feedback and use it to make my work better.</summary>
+            
+                <content type="html">&lt;p&gt;In college, I took a number of humanities courses – I minored in English,
+primarily creative writing.  This frequently involved putting something not
+very good&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://cjhuitt.com/posts/accepting_feedback/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; in front of other students so they could tell me the different ways
+it didn’t work. This kickstarted my lessons on how to take that critical
+feedback and use it to make my work better.&lt;/p&gt;
+&lt;p&gt;When you hear others talk about things that aren’t great in what you’ve made,
+it’s easy to get emotional. If you don’t, great!  This post isn’t for you&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;https://cjhuitt.com/posts/accepting_feedback/#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;The problem with getting emotional is that if you get defensive, you raise the cost to the other person to give you some feedback; and if you can’t get over the defensiveness, you limit how useful the feedback can be in helping you improve. And the whole point of getting feedback is to help you improve, either the work under consideration or your own abilities to produce more like it.&lt;/p&gt;
+&lt;h2 id=&#34;the-steps&#34;&gt;The Steps&lt;/h2&gt;
+&lt;p&gt;So here’s the process that works for me when I get feedback. Sometimes it’s
+harder to follow than others, but it helps me get value from every feedback
+session I’ve had.&lt;/p&gt;
+&lt;h3 id=&#34;1-shut-my-mouth&#34;&gt;1. Shut My Mouth&lt;/h3&gt;
+&lt;p&gt;I won’t get the feedback I need if I’m the one talking – and the more I’m
+talking, the more likely I’ll end up saying something defensive&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;https://cjhuitt.com/posts/accepting_feedback/#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.  So I keep
+my mouth shut – usually completely shut, but occasionally say small phrases so
+others know I’m listening and engaged (“Mm-hmm, go on…”).&lt;/p&gt;
+&lt;p&gt;I keep my mouth shut until they peter out of feedback, and make sure leave a
+bit of extra space in case something else occurs to them.&lt;/p&gt;
+&lt;h3 id=&#34;2-request-clarification-if-necessary&#34;&gt;2. Request Clarification, If Necessary&lt;/h3&gt;
+&lt;p&gt;Once the feedback stops coming, this is one of two things that I might say (the
+other is thanking them, knowing that I’ll probably have a more thorough thanks
+later). I want to make sure that I understand the feedback they’ve been giving
+me.  I keep these as simple, direct, and open-ended as possible so I’m not
+unduly influencing them: “You said Foo – can you go into more detail on that?”
+or “Did X happen before Y, or the other way around?”&lt;/p&gt;
+&lt;p&gt;This is also when I’ll mentally &lt;a href=&#34;https://cjhuitt.com/posts/filing_feedback/&#34;&gt;categorize the feedback&lt;/a&gt; and dig for symptomatic feedback if it wasn’t present.&lt;/p&gt;
+&lt;h3 id=&#34;3-ask-directed-questions&#34;&gt;3. Ask Directed Questions&lt;/h3&gt;
+&lt;p&gt;If I have certain things I want feedback on, and the general feedback hasn’t
+addressed them, I might ask some directed questions about those things.  For
+example, “What did you think about foo?” or “Was bar confusing?”.  I still keep
+these questions as open-ended as I can – it’s better to start broadly and
+narrow focus with later questions, if possible.&lt;/p&gt;
+&lt;h3 id=&#34;4-repeat-1-3-as-necessary&#34;&gt;4. Repeat 1-3 as Necessary&lt;/h3&gt;
+&lt;p&gt;When asking properly broad directed questions, I again need to keep my mouth
+shut during the response, and might need to ask more clarifying questions or
+directed questions.&lt;/p&gt;
+&lt;h3 id=&#34;5-acknowledge&#34;&gt;5. Acknowledge&lt;/h3&gt;
+&lt;p&gt;Acknowledge the feedback they’ve given me. I don’t go over everything in detail
+again, but enough to show I heard it and will consider it. I frequently
+re-iterate the top two or three things I heard from them (as I prioritize them)
+and will, if it’s immediately obvious, give some indication of how I might
+improve things based on their feedback, so that they see an immediate benefit
+for the time they spent with me.&lt;/p&gt;
+&lt;p&gt;At this point, if I’ve discovered I’ve done something that needs an apology,
+I’ll apologize. This doesn’t happen often, but despite step 7, apologies
+shouldn’t wait.&lt;/p&gt;
+&lt;h3 id=&#34;6-thank-them&#34;&gt;6. Thank Them&lt;/h3&gt;
+&lt;p&gt;This person (or people) just took the time to give me information that should
+help me improve (either myself or a particular item). They deserve thanks for
+the effort.&lt;/p&gt;
+&lt;h3 id=&#34;7-percolate&#34;&gt;7. Percolate&lt;/h3&gt;
+&lt;p&gt;Critical feedback can sting.  Even with the best intentions, I usually have an
+immediate reaction to reject or fight against parts of the feedback.  If I feel
+this after the feedback session, I save my notes and put everything away for a
+time. Waiting until after I’ve slept is ideal, but putting another engrossing
+activity in between receiving and reviewing feedback on the same day sometimes
+works.  This needs to be long enough that the initial sting and instinctive
+defensiveness is gone, and the feedback can be truly considered, but not so
+long that you forget about it entirely.&lt;/p&gt;
+&lt;h3 id=&#34;8-seek-multiple-opinions-if-necessary&#34;&gt;8. Seek Multiple Opinions (if Necessary)&lt;/h3&gt;
+&lt;p&gt;If some feedback leaves me confused, or I think the critic was unique in
+perceiving a problem (or stem from the critic’s confusion), it can help to get
+feedback from others.  Sometimes the additional feedback lets me know I can
+safely discard parts of the original.  Sometimes it helps me triangulate on the
+real problem.  And sometimes (more frequently than I might like to admit) it
+reaffirms the original critiques.&lt;/p&gt;
+&lt;h3 id=&#34;9-weigh-feedback&#34;&gt;9. Weigh Feedback&lt;/h3&gt;
+&lt;p&gt;Take stock of all the feedback and decide what to do to address it.  Sometimes
+that means fixing the problem.  Sometimes it means ignoring the feedback, or
+changing something in another spot that negates the feedback.  But all items of
+feedback get some sort of specific resolution.&lt;/p&gt;
+&lt;h3 id=&#34;10-follow-up&#34;&gt;10. Follow Up&lt;/h3&gt;
+&lt;p&gt;Let the person who gave me the feedback know (again) that I appreciated it, and
+that I’ve used it to improve what I did in some way – the more specific my
+communication, the better.  This lets them know (again) that I valued the time
+and effort they put into things, and makes it more likely that they’ll be
+willing to give me feedback again in the future.&lt;/p&gt;
+&lt;h2 id=&#34;a-cheat-sheet&#34;&gt;A Cheat Sheet&lt;/h2&gt;
+&lt;p&gt;So there it is, a nice, ten-step process to dealing with feedback without
+becoming defensive.  If you need a cheat-sheet, steps 1 (shut my mouth), 5
+(acknowledge), and 6 (thank them) are the most important while actually
+receiving the feedback, and even the majority work of steps 5 and 6 can be
+managed later with follow-up messages.&lt;/p&gt;
+&lt;p&gt;Just remember – the more time you spend talking, the less time you have to
+learn from the critic, and the point of getting feedback is learning from how
+other people interact with your work.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This post originally appeared on management-kaizen.com&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Obviously; I was still learning.&amp;#160;&lt;a href=&#34;https://cjhuitt.com/posts/accepting_feedback/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;At least, not yet.&amp;#160;&lt;a href=&#34;https://cjhuitt.com/posts/accepting_feedback/#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;Or otherwise derailing the feedback.&amp;#160;&lt;a href=&#34;https://cjhuitt.com/posts/accepting_feedback/#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/categories/management-kaizen/" term="Management Kaizen" label="Management Kaizen" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/communication/" term="communication" label="communication" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/feedback/" term="feedback" label="feedback" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/systems/" term="systems" label="systems" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">A Filing System for Feedback</title>
+            <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/filing_feedback/" />
+            <id>https://cjhuitt.com/posts/filing_feedback/</id>
+            <updated>2023-12-06T11:49:31-06:00</updated>
+            <published>2019-12-27T12:11:06-06:00</published>
+            <author>
+                    <name>Caleb Huitt</name>
+                    <uri>https://cjhuitt.com/</uri>
+                    </author>
+            <rights>©️ Caleb Huitt</rights><summary type="html">For some of my creations I’m completely open to feedback and criticism, while for others I’m defensive. Is there a pattern? How do I move away from being defensive?
+Paraphrased and anonymized from the Rands Leadership Slack
+When you make something and ask someone for critique, you’re making an effort to improve what you’ve made.</summary>
+            
+                <content type="html">&lt;blockquote&gt;
+&lt;p&gt;For some of my creations I’m completely open to feedback and criticism, while
+for others I’m defensive. Is there a pattern? How do I move away from being
+defensive?&lt;/p&gt;
+&lt;p&gt;Paraphrased and anonymized from the &lt;a href=&#34;https://randsinrepose.com/welcome-to-rands-leadership-slack/&#34;&gt;Rands Leadership Slack&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;When you make something and ask someone for critique, you’re making an effort
+to improve what you’ve made. Why, then, is it so easy to turn defensive and
+fight against receiving what you asked for?&lt;/p&gt;
+&lt;p&gt;In my experience, a lot of it deals with getting the “wrong” category of
+feedback, and especially not knowing how to deal with different categories of
+feedback differently, and how to move people toward giving the category of
+feedback you’re looking for.&lt;/p&gt;
+&lt;h2 id=&#34;the-categories&#34;&gt;The Categories&lt;/h2&gt;
+&lt;h3 id=&#34;developmental&#34;&gt;Developmental&lt;/h3&gt;
+&lt;p&gt;Developmental feedback and critique is what you get from a trusted partner
+working with you as you develop your work. Frequently, this won’t even feel
+like feedback or critique; there may be a lot of “we” words involved, and it
+will feel like collaboration instead of presentation/critique. However, this
+can still be sought from someone you know does this well, and you trust to help
+you figure out problems you’ve been having.&lt;/p&gt;
+&lt;p&gt;This will often sound like:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Are you trying to reduce button presses or reduce confusion?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;What if we added a touch of animation here?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Have you gone through the corner cases and figured out how to deal with them?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;symptomatic&#34;&gt;Symptomatic&lt;/h3&gt;
+&lt;p&gt;Symptomatic feedback is when someone explains what happened and how it made
+them feel or react, and only how it made them feel or react.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;When I pushed this button, then waited for a bit, I got confused.  Then
+frustrated that I had to press it again.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I smiled when I saw the little animation.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I clicked this button, then this one, then this one, and the app crashed.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;diagnostic&#34;&gt;Diagnostic&lt;/h3&gt;
+&lt;p&gt;Diagnostic critique adds a cause to the symptom feedback.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;When I pushed this button, then waited for a bit, I got confused, because it
+took too long to show me what it was doing.  That made me click it again.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I smiled when I saw the little animation because it did a happy wiggle.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I clicked this button, then this one, then this one, and the app crashed,
+because it let me continue without having selected an option.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;prescriptive&#34;&gt;Prescriptive&lt;/h3&gt;
+&lt;p&gt;Prescriptive critique build on diagnostic by also including what should be done
+to fix the corresponding diagnosis.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We should show a progress bar because when I pushed this button, then waited
+for a bit, it took too long to respond and I got confused and clicked it
+again.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I smiled when I saw the little animation because it did a happy wiggle, and
+we should definitely keep that.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We need to have a pop-up to force the user to select an option when they
+click this button, then this one, then this one, otherwise the app will crash
+because it’s trying to continue without a selected option.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The most commonly problematic aspect of categorizing prescriptive critique (and
+what most commonly leads to outsized emotional responses) is that it frequently
+&lt;em&gt;implies&lt;/em&gt; or &lt;em&gt;completely omits&lt;/em&gt; the diagnostic that led to the prescription:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You should show a progress bar.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We should definitely keep the animation.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You need to have a pop-up here to force the user to select an option when
+they click this button.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This causes the prescriptive feedback to superficially appear like
+developmental feedback. The easiest way to tell them apart is to look at who is
+driving the decision: in developmental, the critic is asking or guiding the
+creator to decide what needs done, while prescriptive feedback has the critic
+deciding what needs done.&lt;/p&gt;
+&lt;h2 id=&#34;what-and-when-to-request&#34;&gt;What (and when) to request&lt;/h2&gt;
+&lt;p&gt;Now that you know the categories, which one you want to ask for depends on a
+number of circumstances, and at different times you’ll want to get the
+different types of critical feedback.&lt;/p&gt;
+&lt;h3 id=&#34;developmental-1&#34;&gt;Developmental&lt;/h3&gt;
+&lt;p&gt;As implied by the category title, you’ll most often want this type of feedback
+during the creation of your work. In particular, you might seek this type of
+critique if you’re feeling frustrated or stuck on the actual creation. If you
+do, be selective on who you choose for critic, and once you find a good
+developmental critic, do your best to remember them (and thank them
+generously).&lt;/p&gt;
+&lt;h3 id=&#34;symptomatic-1&#34;&gt;Symptomatic&lt;/h3&gt;
+&lt;p&gt;Symptomatic feedback is the most broadly applicable type of feedback – you can
+ask for it from nearly anyone. You might choose to get some of this critique
+while creating your work, to make sure you’re on the right track, but this is
+most important between revisions so you can use the feedback to improve the
+next iteration.&lt;/p&gt;
+&lt;p&gt;Besides having the broadest pool of qualified people to give the feedback,
+you’ll also want to seek more people to give you this type of feedback than
+other types, because this allows you to see the wide range of reactions people
+will have to what you’ve done.  The drawback is you might find critics who
+think you’re asking for diagnostic or prescriptive feedback (or who only know
+how to give those) so you may have to coach your feedback partners on how best
+to give this type of feedback.&lt;/p&gt;
+&lt;h3 id=&#34;diagnostic-1&#34;&gt;Diagnostic&lt;/h3&gt;
+&lt;p&gt;Diagnostic feedback can be incredibly useful – but it has to come from someone
+with enough knowledge of your work that they can properly diagnose the issue.
+Peers can frequently fill this role, especially if you fill them in a little
+about the specifics of what you’ve done.  By using their knowledge of their own
+thought process and expectations, you can sometimes quickly get to the root of
+an issue that might otherwise have left you bewildered – how exactly did they
+even get to that page?  Knowing the cause of an issue can sometimes mean a very
+simple fix to eliminate it.&lt;/p&gt;
+&lt;p&gt;The way you use the feedback shows when to ask for it: if you’re confused about
+symptomatic feedback (especially the same symptom mentioned by multiple people)
+and can’t figure it out, finding a peer to help diagnose the issue can be a
+wonderful and enlightening solution.&lt;/p&gt;
+&lt;h3 id=&#34;prescriptive-1&#34;&gt;Prescriptive&lt;/h3&gt;
+&lt;p&gt;Prescriptive feedback is the classical double-edged sword.  With someone who
+knows well what you are trying to do, has all of the context, and has your
+trust and respect, the feedback session feels similar to collaboration.  When
+any of that is missing, it feels like micromanagement or taking ownership away
+from you.&lt;/p&gt;
+&lt;p&gt;This means you should be careful who to ask for prescriptive critiques – just
+as careful as you would a developmental critique (and critics who can do this
+well are just as valuable). The only time I recommend specifically seeking a
+prescriptive critique is when you have diagnosis you are quite sure is correct,
+but you’ve been unable to resolve.&lt;/p&gt;
+&lt;p&gt;In this case, if the critic’s diagnosis matches yours (or otherwise explains
+the symptoms correctly), the prescription might be just what you need to make
+your creation work.&lt;/p&gt;
+&lt;h2 id=&#34;reading-your-reactions&#34;&gt;Reading your reactions&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;(Or, what to do when you get the wrong category)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If every creator knew exactly the type of feedback they wanted and clearly
+communicated that, and every critic understood the categories and how to
+properly give each type of feedback, critiques would be much less traumatic&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://cjhuitt.com/posts/filing_feedback/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;In the meantime, as the creator you can learn to work with the types of
+critiques you get from your critics, and sometimes how to guide the critics
+into giving you what you need. Doing this involves a bit of introspection to
+understand your own reaction to receiving the feedback.&lt;/p&gt;
+&lt;h3 id=&#34;symptomatic-2&#34;&gt;Symptomatic&lt;/h3&gt;
+&lt;p&gt;Most of the time, when you get this type of feedback, you’ll have one of three
+reactions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Yep! – satisfaction that things went how you expected or desired&lt;/li&gt;
+&lt;li&gt;D’oh! – immediate recognition of a problem (and often how to fix it)&lt;/li&gt;
+&lt;li&gt;Huh? – curiosity about what caused them to experience what they report&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Using your knowledge of what you’ve done, you can decide whether the symptom is
+something you want (or can live with), or something that needs addressed.  You
+can determine how you want to address it, and why you choose to address it that
+way.  You might know enough to change things in a seemingly unrelated way that
+resolves the problem.&lt;/p&gt;
+&lt;p&gt;If your reaction is curiosity, you might choose to ask for more information
+that can lead a critic into diagnostic feedback – most simply, asking why they
+think they felt what they did, or just asking for what led to the feeling.&lt;/p&gt;
+&lt;h3 id=&#34;diagnostic-2&#34;&gt;Diagnostic&lt;/h3&gt;
+&lt;p&gt;The common reactions to diagnostic feedback parallel the unsatisfying reactions
+for symptomatic feedback:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;D’oh! – immediate recognition of a correct diagnosis&lt;/li&gt;
+&lt;li&gt;What? – confusion about the actual diagnostic feedback.&lt;/li&gt;
+&lt;li&gt;Why? – a diagnosis that omitted the symptom&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If the diagnosis omitted the symptom, you need to make sure to get the symptom
+from the critic, or risk solving the wrong problems, or attempting a solution
+that doesn’t actually address the problem. This is easy to resolve – when you
+notice the lack, ask follow-up questions.&lt;/p&gt;
+&lt;p&gt;If, however, your confusion stems from the actual diagnosis, it’s likely an
+incorrect diagnosis (possibly from confusion on the critic’s part earlier in
+the process). These can usually be simply thrown out, though if you’re curious
+about what caused the diagnosis you might want to dig for other, earlier
+symptoms for hints&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;https://cjhuitt.com/posts/filing_feedback/#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;For both failure modes, having two or three people provide the diagnosis (or
+starting with one and getting a second opinion if necessary) can help catch
+some of the pitfalls.&lt;/p&gt;
+&lt;h3 id=&#34;developmental-and-prescriptive&#34;&gt;Developmental and Prescriptive&lt;/h3&gt;
+&lt;p&gt;I’ve combined developmental and prescriptive reactions and techniques because
+they are so similar to each other when incorrectly applied.&lt;/p&gt;
+&lt;p&gt;If you’re getting angry or frustrated at a critic for their feedback, like the
+person providing feedback is trying to change things in ways you disagree with
+or keeps meddling where they don’t belong, it’s almost always poor
+developmental or prescriptive feedback. (Not to be confused with being angry or
+frustrated at yourself for not accomplishing what you’d like.)&lt;/p&gt;
+&lt;p&gt;If this happens to you, first take a deep breath, and recognize it for what it
+is.  Then, explicitly ask &lt;em&gt;why&lt;/em&gt; they are suggesting what they are suggesting
+(and explicitly frame it as a suggestion, even though they might have said “you
+need to” or “we need to”, in order to nudge the session back closer to on
+track).  Dig for the symptoms and (if desired) diagnoses, and make sure you
+record those – then choose whether or not to use the suggestion.&lt;/p&gt;
+&lt;p&gt;If this continues to happen, you’ll have to either get really good at digging
+for the symptoms and diagnoses, to train the person on the more desired
+feedback, or start avoiding the person’s feedback as much as possible.&lt;/p&gt;
+&lt;h2 id=&#34;one-last-tip&#34;&gt;One Last Tip&lt;/h2&gt;
+&lt;p&gt;Knowing and using these categories of feedback will help you, but sharing your
+expectations around feedback will help you even more.  Let others know what
+type of feedback you’d like before you provide what is being reviewed, and
+maybe some examples of things you’d like to see (or would &lt;em&gt;not&lt;/em&gt; like to see)
+before getting into the heart of the session.  Do that a few times and you’ll
+either have a group of people handy who knows what you want for feedback, or
+you’ll get good at soliciting the right types of feedback from new reviewers
+each time.&lt;/p&gt;
+&lt;p&gt;Use these categories to your advantage to make your review sessions more
+effective and less frustrating for everyone involved – and if they’ve helped
+you, drop me a note to let me know.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This post originally appeared on management-kaizen.com&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Feel free to send along a link to this post if you think it will help&amp;#160;&lt;a href=&#34;https://cjhuitt.com/posts/filing_feedback/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;One notable example: I had written a story where the first paragraph
+mentioned a young lady flying to San Francisco.  I meant taking a plane.
+One reviewer thought this meant she was a superhero, which made further
+diagnostic critiques nonsensical.&amp;#160;&lt;a href=&#34;https://cjhuitt.com/posts/filing_feedback/#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/categories/management-kaizen/" term="Management Kaizen" label="Management Kaizen" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/communication/" term="communication" label="communication" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/feedback/" term="feedback" label="feedback" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/models/" term="models" label="models" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Why I’m Tired of Hearing About the Iron Triangle in Software Development</title>
+            <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/iron_triangle/" />
+            <id>https://cjhuitt.com/posts/iron_triangle/</id>
+            <updated>2023-12-06T11:31:51-06:00</updated>
+            <published>2019-10-27T11:26:42-06:00</published>
+            <author>
+                    <name>Caleb Huitt</name>
+                    <uri>https://cjhuitt.com/</uri>
+                    </author>
+            <rights>©️ Caleb Huitt</rights><summary type="html">Overheard1:
+&amp;ldquo;What would you say to [the business] in this case?&amp;rdquo;
+&amp;ldquo;I&amp;rsquo;d say &amp;lsquo;fast, cheap, or good, but they can only pick two&amp;rsquo;.&amp;rdquo;
+I was a bystander in this, but my immediate reaction was that it was setting up a false dichotomy for the situation (false trichotomy?</summary>
+            
+                <content type="html">&lt;p&gt;Overheard&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://cjhuitt.com/posts/iron_triangle/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;What would you say to [the business] in this case?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;I&amp;rsquo;d say &amp;lsquo;fast, cheap, or good, but they can only pick two&amp;rsquo;.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I was a bystander in this, but my immediate reaction was that it was setting up
+a false dichotomy for the situation (false trichotomy?).  It occurred to me
+that the iron triangle has become an aphorism that sounds great, and so is
+applied far more than it actually warrants.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-iron-triangle&#34;&gt;The Iron Triangle&lt;/h2&gt;
+&lt;p&gt;Chances are, if you&amp;rsquo;ve been in software or engineering for long, you&amp;rsquo;ve
+encountered the Iron Triangle.  There is apparently nearly 50 years of recorded
+use, and it&amp;rsquo;s popular to cite in many engineering circles.  It&amp;rsquo;s considered to
+be one of the fundamental trade-offs in project management:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You can deliver a project fast with high quality (many skilled workers), but
+it won&amp;rsquo;t be cheap&lt;/li&gt;
+&lt;li&gt;You can deliver a project fast and cheap (many unskilled workers), but it
+won&amp;rsquo;t be high quality&lt;/li&gt;
+&lt;li&gt;You can deliver a project cheaply with high quality (few skilled workers),
+but it won&amp;rsquo;t be fast&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;problems-with-the-iron-triangle&#34;&gt;Problems with the Iron Triangle&lt;/h2&gt;
+&lt;p&gt;The problem is the iron triangle as expressed &lt;em&gt;fundamentally doesn&amp;rsquo;t apply to
+software development&lt;/em&gt;.  (Or many other areas of skilled work, but that&amp;rsquo;s for
+another day).  This can expressed in a few ways.&lt;/p&gt;
+&lt;h3 id=&#34;more-people-isnt-faster&#34;&gt;More people isn&amp;rsquo;t faster&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Adding human resources to a late project makes it later&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Fred Brooks, The Mythical Man Month&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Many software engineers have encountered the idea behind &lt;em&gt;The Mythical Man
+Month&lt;/em&gt; and agree with it, but somehow fail to apply the same thinking when
+they&amp;rsquo;re advocating for the iron triangle.&lt;/p&gt;
+&lt;p&gt;(P.S. I used the original quote from Fred Brooks, but &lt;a href=&#34;https://cjhuitt.com/posts/people_resources/&#34;&gt;don&amp;rsquo;t refer to employees
+as resources&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Some might object that the iron triangle talks about costs, not number of
+people, but&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In general, people are the major software development cost.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m willing to allow that there might be some situations where licensing other
+software or acquiring certain super-computers lead to costs that outweigh the
+time of the people developing a system, but those are relatively rare.  You&amp;rsquo;ll
+know if you&amp;rsquo;re in that situation.  Instead, you commonly have situations like
+mine, where the annual budget can roughly be broken down as&lt;/p&gt;
+&lt;p&gt;80%: People (salaries, benefits, etc.)&lt;/p&gt;
+&lt;p&gt;10%: Conferences and training&lt;/p&gt;
+&lt;p&gt;10%: Equipment and licensing&lt;/p&gt;
+&lt;p&gt;If 80% of the costs scale based on time spent on a project, this leads to the
+first observation directly in contradiction to the iron triangle:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In software development, faster &lt;em&gt;is&lt;/em&gt; cheaper.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is so true that you&amp;rsquo;ll commonly find companies doing things like spending
+thousands of dollars on new computers for their developers every year, just to
+make those developers slightly faster.  It&amp;rsquo;s so true that after a certain size,
+companies will hire and dedicate other software developers, with those huge new
+salaries, &lt;em&gt;just to make the existing developers faster&lt;/em&gt;.  (It&amp;rsquo;s not a hard ROI
+argument to make: if you&amp;rsquo;ve 20 engineers, and one more can make all of them 5%
+faster, you&amp;rsquo;ve paid for the new developer in the first year, and can continue
+to reap those gains for other future hires.)&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s another leg of the triangle to be broken, however, which is&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In software development, better quality &lt;em&gt;is&lt;/em&gt; faster.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This has been shown over and over again – the sooner you can catch a defect,
+the easier (faster) it is to fix.  And remember - faster is cheaper, so better
+quality is cheaper as well. Even more than a decade ago many charts went around
+showing the relative costs incurred by defects in different stages of the
+development process (the first one I remember depicted a pure waterfall
+process).&lt;/p&gt;
+&lt;p&gt;But this is just focusing on costs (and recovery from) defects.  Practices like
+BDD/TDD and Continuous Test have shown that in many cases, development with
+those techniques simply ends up faster than without.&lt;/p&gt;
+&lt;p&gt;Finally, these are all just focused on one project&amp;hellip; but how often is
+something made and has no maintenance or expansion?  Okay, okay, everyone can
+stop laughing now.  That leads to the final break in the iron triangle: despite
+nominally dealing with time by mentioning speed, it doesn&amp;rsquo;t account for
+repeated times through the process.&lt;/p&gt;
+&lt;p&gt;Game theory then asserts that&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In software development, better quality makes &lt;em&gt;future&lt;/em&gt; projects faster and
+cheaper.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;And, unfortunately, this cycles the other way: cheat once and do a project with
+poor quality in an effort to be (temporarily) faster, and the next project
+suddenly takes longer.  It&amp;rsquo;s burdened by the lower quality of the previous
+work, because some slice of the current effort has to deal with paying off the
+problems from the previous work.  There&amp;rsquo;s even a &lt;a href=&#34;https://en.wikipedia.org/wiki/Technical_debt&#34;&gt;whole metaphor behind this
+concept&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This can be a horrible spiral: A shortcut leads to worse quality which makes
+the next project slower, which leads to more delivery pressure which means more
+shortcuts, which means the next project is even worse, which means&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Eventually the bill comes due, and in some companies, the
+software developers sigh and say that&amp;rsquo;s just how it is, and the only way to
+solve it is a rewrite, because this time they&amp;rsquo;ll get it right.&lt;/p&gt;
+&lt;p&gt;Or, you can choose quality from the beginning, and that bill may never actually
+come due.&lt;/p&gt;
+&lt;h2 id=&#34;introducing-the-iron-hungry-hippo&#34;&gt;Introducing the Iron Hungry Hippo&lt;/h2&gt;
+&lt;p&gt;Next time the iron triangle comes up, take a moment to reflect: does it really
+match the development of this project?  If not, you may instead be in a
+situation with an iron hungry, hungry hippo:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;High quality eats all other constraints.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Of course, this doesn&amp;rsquo;t apply to every situation, but if you&amp;rsquo;re on a
+development project where the primary cost of development is people&amp;rsquo;s salaries,
+and where there will be repeated efforts in the same code base, you&amp;rsquo;d be much
+better off to insist on good, fast, and cheap – and do it by insisting on high
+quality code as loudly and often as you can.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This post originally appeared on management-kaizen.com&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;technically, over-read, as it was a discussion in Slack&amp;#160;&lt;a href=&#34;https://cjhuitt.com/posts/iron_triangle/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/categories/management-kaizen/" term="Management Kaizen" label="Management Kaizen" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/estimation/" term="estimation" label="estimation" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/kaizen/" term="kaizen" label="kaizen" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/quality/" term="quality" label="quality" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Affinity Estimation for Bootstrapping Teams or Projects</title>
+            <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/affinity_estimation/" />
+            <id>https://cjhuitt.com/posts/affinity_estimation/</id>
+            <updated>2023-12-06T14:45:21-06:00</updated>
+            <published>2019-08-11T20:14:13-06:00</published>
+            <author>
+                    <name>Caleb Huitt</name>
+                    <uri>https://cjhuitt.com/</uri>
+                    </author>
+            <rights>©️ Caleb Huitt</rights><summary type="html">Here’s the situation: there’s a big industry conference in about three months, and your businesspeople and marketing team want to make a big splashy announcement — the kind that needs 2 months or so to prep and pull off. They’ve got the go-to-market name, and a list of (slightly negotiable) features, but they need to know which can go on the posters and banners soon so they can get them designed and printed in time.</summary>
+            
+                <content type="html">&lt;p&gt;Here’s the situation: there’s a big industry conference in about three months,
+and your businesspeople and marketing team want to make a big splashy
+announcement — the kind that needs 2 months or so to prep and pull off.
+ They’ve got the go-to-market name, and a list of (slightly negotiable)
+features, but they need to know which can go on the posters and banners soon so
+they can get them designed and printed in time.&lt;/p&gt;
+&lt;p&gt;These coworkers are reasonable, and they know you can’t guarantee anything…
+it’s not &lt;em&gt;ideal&lt;/em&gt; to ship a week or two after the announcement, but it’s fine,
+if things slip a bit.  What they can’t have is either not shipping for months
+after the announcement, &lt;em&gt;or&lt;/em&gt; shipping the big new thing without the features
+promised to the users.&lt;/p&gt;
+&lt;p&gt;And since the poster-building timelines are what they are, you can’t wait until
+a few days beforehand and just see what’s done.&lt;/p&gt;
+&lt;p&gt;Now, normally something like this wouldn’t phase you… the team working on the
+feature would look at their estimates, at their velocity, do a bit of
+conservative forecasting to account for problems, and suggest the first 5
+features are almost certain to make it, and the next couple might or might not,
+and the marketing team would go with that, knowing that the first ones are the
+headliners, and the extra one or two will make some customers happy but won’t
+be the focus.&lt;/p&gt;
+&lt;p&gt;Unfortunately, you’ve got a brand-new team (maybe to scrum, maybe just to each
+other).  Or an existing team that hasn’t done much estimating before.  So now
+you’re looking at a list of user stories and features, and while your gut says
+these are all about this big, you don’t have a velocity or a team’s estimates
+to backstop things.&lt;/p&gt;
+&lt;p&gt;So you need a velocity, which needs estimated work items, and an estimate for
+all of the work.&lt;/p&gt;
+&lt;p&gt;The Affinity Estimation method (more or less) is the fastest way I know to get
+those estimates.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The whole team&lt;/li&gt;
+&lt;li&gt;One or two business/customer reps (if you don’t already have a Product Owner
+on the team)&lt;/li&gt;
+&lt;li&gt;Printouts of every user story/feature, with ability to stick them to walls.
+(More than 10 for this exercise — fewer than that, either the team has no
+problem getting them all done, or you’ll want to break them into smaller
+pieces.)  Have something to mark them for different features, if necessary.&lt;/li&gt;
+&lt;li&gt;A pile of post-its and sharpies&lt;/li&gt;
+&lt;li&gt;A conference room with a big wall, and 60-120 minutes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-process&#34;&gt;The Process&lt;/h2&gt;
+&lt;h3 id=&#34;preparation&#34;&gt;Preparation &lt;/h3&gt;
+&lt;p&gt;Select 10-30 of the work items (15-20 is the sweet spot, but if you need to
+estimate a hundred items, a few more initially will help).  Try to select ones
+that seem to have a wide spread of sizes (the team will correct later).&lt;/p&gt;
+&lt;p&gt;Put two signs on the biggest wall, at either end.  One saying “Smaller” and the
+other “Bigger”.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/affinity/wall.png&#34; alt=&#34;Two framed words with an open space between them. &amp;ldquo;Smaller&amp;rdquo; is on the leftand &amp;ldquo;Bigger&amp;rdquo; is on the right.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;If it hasn’t been done, have the PO or business people explain the goals to the
+team at a high level — customers, problems, desired features.  Enough to
+understand roughly what the work item printouts mean, but not so much to bore
+them.  5-10 minutes max.&lt;/p&gt;
+&lt;p&gt;Explain to the team that the exercise will help them get a rough estimate —
+good enough for starting, but plan on it being tuned later.  Emphasize that the
+value of this exercise is getting the estimate roughly right very quickly, and
+so you might skip over minor disagreements in the interests of speed.  If they
+have questions about what any item entails, you’ll pause the process to get
+those questions answered, but debates about how big will but cut off after a
+brief bit of time.&lt;/p&gt;
+&lt;h3 id=&#34;bootstrap-ranking&#34;&gt;Bootstrap Ranking&lt;/h3&gt;
+&lt;p&gt;Pick two of the initial items and hold them where the team can see them.  Ask
+the team to decide which one is bigger than the other.  Give them a half minute
+to decide, and if there’s still disagreement, call for a vote then take the
+majority (if this happens, maybe remind them of the goal to be quick; you don’t
+want to waste anyone’s time getting more exact than necessary at this stage).&lt;/p&gt;
+&lt;p&gt;Affix the smaller item about 1/3 of the way along the wall toward the “Smaller”
+sign, and the larger item about 2/3 along, toward the “Bigger” sign.  Tell the
+team these can shift if necessary, but you’re starting with room for now.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/affinity/start.png&#34; alt=&#34;The same Smaller-Bigger image as before, but with three smaller squaresbetween them. The leftmost says &amp;ldquo;shed&amp;rdquo;, the center &amp;ldquo;house&amp;rdquo;, and the rightmost&amp;ldquo;office building&amp;rdquo;.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Take the next item and choose one of the items on the wall.  Ask the team if
+it’s bigger, smaller, or between the existing two items.  Again, give up to a
+half-minute and call for a vote if necessary, then affix that item in the
+middle of the space indicated by the team.  Repeat this process again with the
+next two items, letting the team guide you to size each one relative to the
+items on the wall.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/affinity/transition.png&#34; alt=&#34;The same Smaller-Bigger image as before with more smaller labeled squaresfilled in. From left to right, the smaller labeled squares read &amp;ldquo;shed&amp;rdquo;, &amp;ldquo;garage&amp;rdquo;,&amp;ldquo;house&amp;rdquo;, &amp;ldquo;office building&amp;rdquo;, &amp;ldquo;office complex&amp;rdquo;,&amp;ldquo;skyscraper&amp;rdquo;.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;After you have five items on the wall, hand the next one to one of the team
+members, and have them repeat the same process you’ve been doing.  &lt;em&gt;However&lt;/em&gt;,
+since they’re a member of the team doing the estimating, they can propose
+placement and have the team accept it, or argue them into a different
+placement.  Have each member do this until you’ve gone through the team twice
+(or run out of items).  (Remind them they can move other items to make more
+space, if necessary).&lt;/p&gt;
+&lt;p&gt;If any of the initial items are left, ask the team to decide if they want to
+continue one at a time or have the team all individually place a few at once,
+then examine where everyone had placed things.  Follow the team decision and
+get out of the way as they finish the first phase.&lt;/p&gt;
+&lt;h3 id=&#34;affinity-grouping&#34;&gt;Affinity Grouping&lt;/h3&gt;
+&lt;p&gt;At this point you should have a rough line of representative items from
+smallest to biggest.  There might couple put in columns as the same size; if
+only a couple, don’t sweat it.  If more than a handful, ask the team to
+double-check each other that they are, in fact, the same size.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/affinity/lineup.png&#34; alt=&#34;The same Smaller-Bigger image as before with more smaller labeled squaresfilled in. From left to right, the smaller labeled squares read &amp;ldquo;dog run&amp;rdquo;, &amp;ldquo;doghouse&amp;rdquo;, &amp;ldquo;shed (small)&amp;rdquo;, &amp;ldquo;garage&amp;rdquo; with &amp;ldquo;machine shed&amp;rdquo; somewhat below it,&amp;ldquo;house&amp;rdquo; with &amp;ldquo;cabin&amp;rdquo; somewhat below it, &amp;ldquo;office building&amp;rdquo;, &amp;ldquo;officecomplex&amp;rdquo;, and &amp;ldquo;skyscraper&amp;rdquo;.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The goal now is to group the ordered stories by those roughly the same size.
+ Go to a middle item and say it’s the reference.  Move from that item to the
+bigger ones, asking if each item along the way is significantly bigger than the
+reference item (roughly half-again to twice as big).  Once you’ve found the
+item most of the team says is significantly bigger, remove the previous item
+and put it below the one prior, leaving a gap in the line.  Go back to the
+reference item and start going smaller, asking on each item which one is
+significantly smaller than the reference item (1/2 - 2/3 the work).  One you
+find that end, repeat the process of making a gap.  Don’t spend more than a
+minute going in either direction.&lt;/p&gt;
+&lt;p&gt;You now have one affinity group.  Reinforce to the team that all items in this
+group are roughly the same size, and even though the difference from the
+smallest to the largest &lt;em&gt;in that group&lt;/em&gt; might be large, this will help give you
+categories for the rest of the exercise.&lt;/p&gt;
+&lt;p&gt;Ask the team to repeat the process on the rest of the ungrouped items, leaving
+gaps between the different groups.  You’ll ideally end up with 5 or more
+groups, though depending on the size disparity of your initial items it may be
+many more than that.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/affinity/affinity.png&#34; alt=&#34;The Smaller-Bigger image as before but with the labeled squares more grouped.From left to right, the smaller labeled squares read &amp;ldquo;dog run&amp;rdquo; and &amp;ldquo;doghouse&amp;rdquo; in the same column, &amp;ldquo;shed (small)&amp;rdquo; on its own, &amp;ldquo;garage&amp;rdquo; and &amp;ldquo;machineshed&amp;rdquo; in the same column, &amp;ldquo;house&amp;rdquo;, &amp;ldquo;cabin&amp;rdquo;, and &amp;ldquo;office building&amp;rdquo;, in the samecolumn, &amp;ldquo;office complex&amp;rdquo; on its own, and &amp;ldquo;skyscraper&amp;rdquo; on itsown.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Before continuing, have the team double-check the groups to see if there are
+any holes where affinity groups should be — that is, spots where one group
+represents 3 or more times the size of the group beside it.  If so, use a
+sticky to put a placeholder for a group there.&lt;/p&gt;
+&lt;h3 id=&#34;mass-estimation&#34;&gt;Mass Estimation&lt;/h3&gt;
+&lt;p&gt;If you have more than 30 items to estimate, spread the remaining items among
+the team.  Ask them to start with the simplest and/or biggest ones in their
+hand and one at a time, take turns doing the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Move one item on the wall from it’s existing group up or down one group,
+explaining to the group why.&lt;/li&gt;
+&lt;li&gt;Tell the group the item they are placing&lt;/li&gt;
+&lt;li&gt;Place that item in one of the affinity groups&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This should take no more than 30 seconds per turn, and the simplest ones much
+less — maybe 10 seconds once the team is in the flow of it.  (That would
+estimate each 100 items in between 15 and 45 minutes).  If other team members
+want to argue about either a card moved or placed, remind them they have the
+chance to move a card on their turn to address the complaint.&lt;/p&gt;
+&lt;p&gt;If a given card is contentious (moves back and forth between two groups more
+than 3 times), take it off the wall, explaining that it will be put back at the
+end of this activity with more discussion.  At the end, return those cards with
+the team voting on where it goes; lean toward the higher group unless the
+strong majority of the team votes lower, reminding them if necessary that the
+estimate only has to be approximate.  (Note: I’ve done variants of this
+exercise many times with a handful of different teams and never actually had
+this happen.)&lt;/p&gt;
+&lt;h3 id=&#34;going-smaller&#34;&gt;Going Smaller&lt;/h3&gt;
+&lt;p&gt;Teams seem to do best when the items in their sprint are sized no more than 1/6
+or 1/8 the overall team velocity.  Before moving on to pointing, we want to
+make sure that the things we are pointing are scaled appropriately so that the
+resulting team velocity is above, say, 5 at least.  So we need to double-check
+the smallest items before assigning a scale.&lt;/p&gt;
+&lt;p&gt;Bring the team to the smallest group and have them look it over.  Ask if they
+could complete more than one of those items (or items like them) in a sprint.
+ If so, ask them to do a quick hand vote on how many they think the team could
+complete in a sprint, with a fist representing none and an open hand meaning
+five or more.&lt;/p&gt;
+&lt;p&gt;You’ll want to see a lot of open hands.  If the majority of the team thinks
+five or more items would be done in a sprint, skip the rest of this section and
+move on to pointing.&lt;/p&gt;
+&lt;p&gt;Ask the team to choose one or two of the work items that would be easy to split
+into pieces, and have them write those pieces down on stickies.  Put those
+stickies on the wall (or the next wall) in affinity groups like the bigger
+stories.  They should generally be smaller.  Repeat this whole section if
+necessary (though I’ve never had to repeat it).&lt;/p&gt;
+&lt;h3 id=&#34;pointing&#34;&gt;Pointing&lt;/h3&gt;
+&lt;p&gt;Now comes the simplest part of the day.  Starting at the smallest affinity
+group, and moving to the largest, assign points in the progression of your
+choice.  Some choose to double with each column, while I prefer the modified
+fibonacci sequence commonly used (1, 2, 3, 5, 8, 13, 20, 40, 100).  If the team
+was really confident of getting a lot of the smallest group done, I might start
+with 1/2 instead of 1.  Go as large as you have to — you want to wrap your head
+around the entire body of work, and if there are any items above 20, they’ll
+probably need broken into smaller parts anyway.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/affinity/pointed.png&#34; alt=&#34;The Smaller-Bigger image as before but with the columns headed by smallerstickers with numbers on them. Additional numbered stickers are above emptycolumns.  From left to right, columns are &amp;ldquo;1&amp;rdquo; with &amp;ldquo;dog run&amp;rdquo; and &amp;ldquo;doghouse&amp;rdquo;; &amp;ldquo;2&amp;rdquo; with &amp;ldquo;shed (small)&amp;rdquo;; &amp;ldquo;3&amp;rdquo; with &amp;ldquo;garage&amp;rdquo; and &amp;ldquo;machineshed&amp;rdquo;; &amp;ldquo;5&amp;rdquo; with &amp;ldquo;house&amp;rdquo;, &amp;ldquo;cabin&amp;rdquo;, and &amp;ldquo;office building&amp;rdquo;;&amp;ldquo;8&amp;rdquo; with no items; &amp;ldquo;13&amp;rdquo; with &amp;ldquo;office complex&amp;rdquo;; &amp;ldquo;20&amp;rdquo; with no items, and &amp;ldquo;40&amp;rdquo;with &amp;ldquo;skyscraper&amp;rdquo;.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Get your first cut at the overall estimate by counting the cards in each group
+and multiplying by that column’s point value.  Note that you’ll want to apply a
+margin of safety to the estimate — either now, or on the team’s velocity when
+you use it to estimate the features that can be done by the target date.&lt;/p&gt;
+&lt;h3 id=&#34;wrap-up&#34;&gt;Wrap-up&lt;/h3&gt;
+&lt;p&gt;It never hurts to thank the participants, or remind them that this is just a
+very rough cut at the estimates — the expectation is that the team will refine
+them as necessary when they dig into the work.&lt;/p&gt;
+&lt;p&gt;If you use a separate tracking system (JIRA, etc) you’ll want to enter the
+information into it.  Depending on how many items were used for estimation, I
+might stack the grouped items together with a sticky indicating their size and
+enter them later.&lt;/p&gt;
+&lt;h3 id=&#34;modifications-for-existing-teams&#34;&gt;Modifications for Existing Teams&lt;/h3&gt;
+&lt;p&gt;The overall process for existing teams that have been doing estimation is
+mostly the same, right up until &lt;strong&gt;Going Smaller&lt;/strong&gt; and &lt;strong&gt;Pointing&lt;/strong&gt; — with the
+exception that teams that have done this process a couple of times need less
+explanation, and are able to move through it faster than teams who haven’t.  If
+teams have an established point scale and aren’t looking to modify it, you can
+skip &lt;strong&gt;Going Smaller&lt;/strong&gt; and have them estimate one of the items in one of the
+groups the way they usually do.  Use the estimated value for that affinity
+group, and then point the rest of the columns based on the column with the item
+the team estimated.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;looking-forward&#34;&gt;Looking Forward&lt;/h2&gt;
+&lt;p&gt;The PO or business people are probably going to want to know the relative
+estimate for each feature so that they can prioritize appropriately.  Get this
+done before the team needs to start working on the project, so they know what’s
+most important to start with.&lt;/p&gt;
+&lt;p&gt;Once you have a team velocity (after a sprint for teams that haven’t estimated
+before, or using a historical average for teams who have) you can apply that to
+make a rough projection based on the order of features to determine when those
+features are likely to be done.  &lt;strong&gt;Remember to apply a margin of safety.&lt;/strong&gt;
+ (For brand new teams I’d tend toward only expecting 2/3 of the first sprint’s
+velocity until proven otherwise.)  I’m a fan of forthrightness on this — say
+which features are quite likely to be done, which are iffy, and which (if any)
+almost certainly won’t be done.  Remind the businesspeople that this is (of
+course) subject to change if they want to drop less important features or parts
+of the features, or if the team discovers something major that they didn’t
+previously know.  Then keep everyone updated as things change.&lt;/p&gt;
+&lt;p&gt;Because things will change.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This post originally appeared on management-kaizen.com&lt;/em&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/categories/management-kaizen/" term="Management Kaizen" label="Management Kaizen" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/affinity/" term="affinity" label="affinity" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/coaching/" term="coaching" label="coaching" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/estimating/" term="estimating" label="estimating" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/facilitating/" term="facilitating" label="facilitating" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">How Kurt Warner’s Career Relates to Software Developer’s Performance: Players, Coaches, and Systems</title>
+            <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/warner_careers_systems/" />
+            <id>https://cjhuitt.com/posts/warner_careers_systems/</id>
+            <updated>2023-12-06T15:34:51-06:00</updated>
+            <published>2019-08-04T10:58:15-06:00</published>
+            <author>
+                    <name>Caleb Huitt</name>
+                    <uri>https://cjhuitt.com/</uri>
+                    </author>
+            <rights>©️ Caleb Huitt</rights><summary type="html">A common type of underdog story in professional sports is that of the athlete who wasn’t recognized at one point, kept trying, and went on to perform well. One specific example is Kurt Warner.
+A brief summary of his NFL career:
+Undrafted by any NFL team in 1994 “Fired” from two different teams (Green Bay Packers under Mike Holmgren in 1994, St.</summary>
+            
+                <content type="html">&lt;p&gt;A common type of underdog story in professional sports is that of the athlete
+who wasn’t recognized at one point, kept trying, and went on to perform well.
+One specific example is &lt;a href=&#34;https://en.wikipedia.org/wiki/Kurt_Warner#Professional_career&#34;&gt;Kurt
+Warner&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A brief summary of his NFL  career:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Undrafted by any NFL team in 1994&lt;/li&gt;
+&lt;li&gt;“Fired” from two different teams (Green Bay Packers under Mike Holmgren in
+1994, St. Louis Rams under Mike Martz in 2003)&lt;/li&gt;
+&lt;li&gt;Replaced absent injury on at least two different teams (New York Giants under
+Tom Coughlin in 2004, Arizona Cardinals under Dennis Green in 2005-2006)&lt;/li&gt;
+&lt;li&gt;Won the NFL MVP award multiple times (In St. Louis, under Dick Vermeil in 1999
+and under Mike Martz in 2001)&lt;/li&gt;
+&lt;li&gt;Led two different teams to 3 Super Bowls (In St. Louis in 1999 [Dick Vermeil]
+and 2001 [Mike Martz], and in Arizona in 2008 under Ken Whisenhunt)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;is-kurt-warner-a-good-player&#34;&gt;Is Kurt Warner a Good Player?&lt;/h2&gt;
+&lt;p&gt;What can we learn from this (and many other) examples?  Besides that
+&lt;a href=&#34;https://cjhuitt.com/posts/making_assessments/&#34;&gt;assessments are fuzzy and hard?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Was Kurt Warner a good player or a mediocre one?  He was effectively fired
+twice (Green Bay and St. Louis), but he also won MVP awards and Super Bowls,
+and was elected to the NFL Hall of Fame.&lt;/p&gt;
+&lt;p&gt;Did he play for bad coaches?  Mike Holmgren and Tom Coughlin have won Super
+Bowls and coached quarterbacks who have had notable success, including Brett
+Farve and Eli Manning.&lt;/p&gt;
+&lt;p&gt;Or is it more complicated than that?&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;systems-at-play&#34;&gt;Systems at Play&lt;/h2&gt;
+&lt;p&gt;You’ll frequently hear people refer to one coach or another’s system, and that
+can have a lot to do with the results a given player has in sports.  A
+clock-control system is going to want to have different players than one that
+emphasizes fast-breaks.  Some coaches stress defense more, while some stress
+offense.  And sometimes a player is just in the wrong role in a system that
+would allow them to thrive — in the NFL, for example, you’ll frequently see
+cornerbacks move to safety or vice-versa; likewise many field positions in
+baseball (particularly outfielders).&lt;/p&gt;
+&lt;p&gt;If you look around, you might also see the same effect in a workplace.  A
+software developer who excels in one company may struggle if they change to
+another company — or even another team in the same company.  Different
+processes, different roles, different goals… even different skills by teammates
+can amplify or reduce a given person’s effectiveness at their job.&lt;/p&gt;
+&lt;p&gt;Does that mean they are bad?  Or incompetent?&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;nobodys-at-fault&#34;&gt;Nobody’s At Fault&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://deming.org/a-bad-system-will-beat-a-good-person-every-time/&#34;&gt;Some
+sources&lt;/a&gt;
+claim as much as &lt;a href=&#34;https://management.curiouscatblog.net/2013/04/24/94-belongs-to-the-system/&#34;&gt;95% of the performance of individuals is dictated by the
+system they are
+in&lt;/a&gt;.
+ Others rightly point out that in situations with less repeatability between
+jobs (such as software development), &lt;a href=&#34;https://brodzinski.com/2013/04/people-not-system.html&#34;&gt;this is unlikely to be as
+high&lt;/a&gt;.  What still holds
+true at a first-approximation is that the system someone works in can greatly
+influence how well they perform — and much of Deming’s work focuses on things
+that will prevent people (and companies) from performing up to their potential.&lt;/p&gt;
+&lt;p&gt;Many people argue against ever calling someone incompetent, as opposed to the
+more specific “unable to perform as needed in this environment”.&lt;/p&gt;
+&lt;p&gt;Take the &lt;a href=&#34;https://orghacking.com/pioneers-settlers-town-planners-wardley-9dcd3709cde7&#34;&gt;Pioneers, Settlers, and Town Planners
+model&lt;/a&gt;.
+ Which one applies to your team?  To your employees?  Right now the work my
+teams are doing is primarily Settler-type work, with some Pioneering and a
+smattering of Town Planning.  How will the effectiveness of a great Town
+Planner be in such a system?  In a team full of Pioneers?  Depending on the
+person, they might interact with the Pioneers on the team and contribute just
+enough planning to help… or they might grow frustrated at the lack of
+fore-planning and standardization that the team exhibits, leading to acrimony?&lt;/p&gt;
+&lt;h2 id=&#34;sometimes-a-change-is-necessary&#34;&gt;Sometimes a Change is Necessary&lt;/h2&gt;
+&lt;p&gt;I want to see people kicking butt in their jobs… it’s something that delights
+me.  If someone reporting to me is struggling to reach their potential, I want
+to dig in and see what parts of the system are blocking them.  Sometimes we can
+change the system… more unit tests around a subsystem, for example, or change
+some IDE settings to work better for that person.  Sometimes, we can’t: no
+matter how much I might like to, we’re not going to be able to rearchitect our
+multi-million LoC application, or change the programming language we use on it,
+in any timeframe less than years.&lt;/p&gt;
+&lt;p&gt;When that happens?  The best I can do is to help the person realize it and find
+someplace that better fits — in another company, if necessary.  It’s
+temporarily difficult, but better to have someone placed where they can excel
+(and another with potential in their position) than someone constantly stymied
+in their mastery.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This post originally appeared on management-kaizen.com&lt;/em&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/categories/management-kaizen/" term="Management Kaizen" label="Management Kaizen" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/coaching/" term="coaching" label="coaching" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/models/" term="models" label="models" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/systems/" term="systems" label="systems" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">When I Tell a Joke, and You Laugh, I’m More Likely to Joke: The Situation-Behavior-Impact Model of Feedback</title>
+            <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/joke_sbi/" />
+            <id>https://cjhuitt.com/posts/joke_sbi/</id>
+            <updated>2023-12-06T15:34:31-06:00</updated>
+            <published>2019-07-28T11:42:03-06:00</published>
+            <author>
+                    <name>Caleb Huitt</name>
+                    <uri>https://cjhuitt.com/</uri>
+                    </author>
+            <rights>©️ Caleb Huitt</rights><summary type="html">One of your reports did something good. Or bad. Or maybe not a report, but a peer. Or someone else in the organization. Or you want to prompt someone for feedback. But – and here’s the problem – lots of people are bad at feedback.</summary>
+            
+                <content type="html">&lt;p&gt;One of your reports did something good.  Or bad. Or maybe not a report, but a
+peer.  Or someone else in the organization.  Or you want to prompt someone for
+feedback.  But – and here’s the problem – lots of people are bad at feedback.
+ Feedback is a gift, but many don’t give it for not knowing how to wrap.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;feedback-is-hard&#34;&gt;Feedback is hard&lt;/h2&gt;
+&lt;p&gt;It’s also vital.  One of the biggest components of growth – individual and team
+– is incorporating feedback, which relies on getting feedback.  People get
+better at what they are doing through feedback, and teams &lt;em&gt;cannot&lt;/em&gt; become
+high-performing without the ability to give each other feedback on what is
+happening.&lt;/p&gt;
+&lt;h3 id=&#34;make-it-easier&#34;&gt;Make it easier&lt;/h3&gt;
+&lt;p&gt;You can read about &lt;a href=&#34;https://medium.com/@royrapoport/why-wont-you-talk-to-me-f30a01a1994c&#34;&gt;the conditions necessary to continue to get
+feedback&lt;/a&gt;,
+but while the article addresses making feedback easy to give by not fighting it
+or arguing against it, there are other ways to make feedback easier to give.
+One way is to provide a framework for how to phrase the feedback.  This frees
+the person providing the feedback to concentrate on getting the content
+correct.&lt;/p&gt;
+&lt;p&gt;There are many feedback models out there, including the first parts of having
+non-violent, tough, or fierce conversations.  However, one of the simplest, and
+therefore easiest to teach, is the &lt;a href=&#34;https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/&#34;&gt;SBI
+model&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-situation-behavior-impact-model&#34;&gt;The Situation, Behavior, Impact model&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/sbi/combined.png&#34; alt=&#34;A drawing of an old-fashioned movie camera pointed at three frames. The firstframe shows trees and a pond, the second frame shows three stick figures in anoffice, and the third shows a person&amp;rsquo;s head with a cut-away to show gearsinside.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The model states that you start with the situation in which another person did
+something, move to what behavior they showed, and then state the impact of that
+behavior in that situation.&lt;/p&gt;
+&lt;h3 id=&#34;the-situation&#34;&gt;The Situation&lt;/h3&gt;
+&lt;p&gt;This sets the scene for the other things that happened, providing context to
+mark a particular instance of behavior.&lt;/p&gt;
+&lt;h3 id=&#34;the-behavior&#34;&gt;The Behavior&lt;/h3&gt;
+&lt;p&gt;One person (or a team — but be careful, that’s a bit harder for learning the
+framework) does one or more actions in the situation being described.&lt;/p&gt;
+&lt;h3 id=&#34;the-impact&#34;&gt;The Impact&lt;/h3&gt;
+&lt;p&gt;As a result of the action(s) taken, something happened.&lt;/p&gt;
+&lt;h3 id=&#34;the-pitfalls&#34;&gt;The Pitfalls&lt;/h3&gt;
+&lt;p&gt;This model can go wrong — drastically wrong.  One of the biggest pitfalls is
+providing interpretations, especially implicit interpretations, and
+extra-especially during the situation or behavior part of the feedback.  &lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/sbi/situation.png&#34; alt=&#34;A drawing of an old-fashioned movie camera pointed at a frame of trees and apond.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The situation should be described in as neutral terminology as possible.  The
+ideal is shown below — like a scene being set in a movie.  This part should
+describe the when, where, and who, in a way that is unlikely to have any
+observer object.  It should describe a singular situation.  Good: &lt;em&gt;During the
+lunch meeting with clients yesterday&lt;/em&gt;.  Bad: &lt;em&gt;During team meetings&lt;/em&gt;, or &lt;em&gt;Whenever
+the boss isn’t present&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/sbi/behavior.png&#34; alt=&#34;A drawing of an old-fashioned movie camera pointed at a frame of three stickfigures in an office&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The behavior should also be in neutral terms — also like a scene in a movie,
+only now the scene is in focus and people are doing things.  This is the how or
+what of the event, and should also be described in a way that is unlikely to
+have any observer or participant object.  In particular, it should be phrased
+so that the recipient of the feedback is unlikely to object.  Good: &lt;em&gt;You
+started talking while I was in the middle of my sentence&lt;/em&gt;, or &lt;em&gt;you told a
+joke referring to blondes&lt;/em&gt;, or &lt;em&gt;you added extra data to reinforce my point&lt;/em&gt;. 
+Bad: &lt;em&gt;You were surly&lt;/em&gt; (this isn’t specific), or &lt;em&gt;you interrupted
+me&lt;/em&gt; (interruption implies intent, and has negative connotations), or &lt;em&gt;you told
+a sexist joke&lt;/em&gt; (this inserts your judgement on the behavior, instead of just
+describing the behavior).&lt;/p&gt;
+&lt;p&gt;The behavior part is where this model most frequently goes wrong, and it’s
+usually due to problems similar to those noted above: things that are open to
+interpretation or can be argued against.  It’s also more important to get this
+right, because if the person receiving the feedback disagrees with this, they
+won’t accept the rest of the feedback (since in their mind it’s no longer
+connected to their behavior).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/sbi/impact.png&#34; alt=&#34;A drawing of an old-fashioned movie camera pointed at a frame of a person&amp;rsquo;shead with a cut-away to show gears inside&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Finally, the impact doesn’t have to be in neutral terms — &lt;em&gt;but only if you’re
+describing the impact to you personally&lt;/em&gt;.  Impacts on other people should still
+be as neutral as possible, and in all cases, the goal of stating things that
+the recipient is unlikely to argue or object to is still important.  (The
+reason personal impacts don’t have to be neutral is because an individual is
+the authoritative source on what they felt).  Good: &lt;em&gt;I lost my momentum in the
+presentation&lt;/em&gt;, or &lt;em&gt;I felt like my words weren’t good enough&lt;/em&gt;, or &lt;em&gt;I saw Tim wince
+and then didn’t say anything for the rest of the meeting&lt;/em&gt;, or &lt;em&gt;the clients
+stopped objecting to that part of the proposal&lt;/em&gt;.  Bad: &lt;em&gt;the client didn’t like
+it&lt;/em&gt;, or &lt;em&gt;you come off as rude&lt;/em&gt;, or &lt;em&gt;team members think you’re sexist&lt;/em&gt; (acceptable
+modification: &lt;em&gt;2 team members called you sexist when talking to me after the
+meeting&lt;/em&gt; — this is theoretically independently verifiable and difficult for
+someone to argue against).&lt;/p&gt;
+&lt;h2 id=&#34;putting-the-pieces-together&#34;&gt;Putting the pieces together&lt;/h2&gt;
+&lt;p&gt;It takes a bit of practice to make these parts flow smoothly, but even knowing
+about them and phrasing things in a slightly awkward way allow for the delivery
+of feedback, which is the most important goal.  Once feedback is flowing, and
+people start accepting it, you can even recurse and start delivering feedback
+on how the other person delivers (or accepts) feedback.&lt;/p&gt;
+&lt;p&gt;And the more feedback you get, the more you’ll be able to choose effective ways
+to improve.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;When I publish a post, and you respond or share it, I feel like my work is
+appreciated and I’m more likely to write more articles like it. 😉&lt;/p&gt;
+&lt;p&gt;Caleb&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;This post originally appeared on management-kaizen.com&lt;/em&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/categories/management-kaizen/" term="Management Kaizen" label="Management Kaizen" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/behavior/" term="behavior" label="behavior" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/feedback/" term="feedback" label="feedback" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/impact/" term="impact" label="impact" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/sbi/" term="sbi" label="sbi" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/situation/" term="situation" label="situation" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Making Assessments</title>
+            <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/making_assessments/" />
+            <id>https://cjhuitt.com/posts/making_assessments/</id>
+            <updated>2023-12-06T15:34:26-06:00</updated>
+            <published>2019-07-21T08:07:38-06:00</published>
+            <author>
+                    <name>Caleb Huitt</name>
+                    <uri>https://cjhuitt.com/</uri>
+                    </author>
+            <rights>©️ Caleb Huitt</rights><summary type="html">“How can I measure my employees for evaluation?” new managers commonly ask.
+It’s the wrong question. Not because evaluating and providing feedback to employees is wrong — frequent and consistent feedback is one of the keys to helping people grow. No, it’s wrong because it implies that measuring is the goal, and it’s not.</summary>
+            
+                <content type="html">&lt;p&gt;“How can I measure my employees for evaluation?” new managers commonly ask.&lt;/p&gt;
+&lt;p&gt;It’s the wrong question.  Not because evaluating and providing feedback to
+employees is wrong — frequent and consistent feedback is one of the keys to
+helping people grow.  No, it’s wrong because it implies that measuring is the
+goal, and it’s not.&lt;/p&gt;
+&lt;p&gt;An assessment — “This is how Sam is performing” — is what is actually desired.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;assessments-vs-measurements&#34;&gt;Assessments vs Measurements&lt;/h2&gt;
+&lt;p&gt;There are many things that can be measured, but there are few occupations that
+can be summarized by a measurement — perhaps some bricklayers can be evaluated
+by the number of bricks laid, for exampled, but you’d probably want to take
+into consideration how well those bricks are laid, and perhaps if the
+bricklayer made a pleasing pattern from the bricks.  Most jobs I know suffer
+from that same problem — there might be some jobs out there that can boil out a
+single number, but even that is hard.  Even baseball players after Moneyball
+are evaluated on a set of numbers — including the salary they are asking, and
+an assessment is made on balance for whether the person is worth it.&lt;/p&gt;
+&lt;p&gt;In short, a measurement is a number, while an assessment is a judgement made
+from looking at more of the situation than just a number (though, ideally, some
+numbers come into play).&lt;/p&gt;
+&lt;p&gt;How then are assessments made, you helpfully ask.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;forming-assessments&#34;&gt;Forming Assessments&lt;/h2&gt;
+&lt;p&gt;At the base, there is reality.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/assessments/reality.png&#34; alt=&#34;A drawing of the earth labeled with &amp;ldquo;Reality&amp;rdquo;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Unfortunately, we can’t just consult reality and get a clear-cut answer
+whenever we need to make an assessment, so we’re left with making assessments
+on incomplete or inaccurate information.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/assessments/assessment.png&#34; alt=&#34;A drawing of a gavel labeled with &amp;ldquo;Assessment&amp;rdquo;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;How do you get from reality to an assessment?  &lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/assessments/missing_part.png&#34; alt=&#34;The previous drawings of Reality and Assessment. An arrow goes from Realityto a drawn cloud with question marks, then from that toAssessments&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;a-framework-for-assessments&#34;&gt;A Framework for Assessments&lt;/h3&gt;
+&lt;p&gt;First, nobody can encompass the totality of reality as it is.  Instead, I and
+everyone else start by making observations of contain pieces of reality (in the
+best case) or of something we think is reality (in the unfortunately common
+case).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/assessments/observations.png&#34; alt=&#34;The previous drawing of Reality with an arrow to an old-fashioned moviecamera labeled &amp;ldquo;Observations&amp;rdquo;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Observations include things like “the sun is shining right now where I am” or
+“the weatherman predicted rain”.  Things similar to what you might see or hear
+with a recording (or — if we had the recording equipment to convey it — smell,
+feel, or taste).  It does not include “the weatherman is wrong” — that’s an
+assessment, which comes later.&lt;/p&gt;
+&lt;p&gt;Generally speaking, observations tend to fall into one of two categories —
+quantifiable data or anecdotal occurrences.  I call these two categories
+Measures and Stories.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/assessments/stories_measures.png&#34; alt=&#34;The previous drawing of Reality with Observations. Two arrows lead fromObservations, one to a drawing of an open book labeled &amp;ldquo;Stories&amp;rdquo; and one to adrawing of a drawing of a measurement compass labeled&amp;ldquo;Measures&amp;rdquo;.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Measures are things that can have a number put to them, while stories generally
+can’t.  In the weather example, “the sun is shining right now where I am” is a
+story, but “my rain gauge shows zero accumulation for today” is a measurement.
+ Likewise, “the weatherman predicted rain” is a story, while “the weatherman
+predicted rain for 25% of the covered area” might be a measurement — it’s a
+blurry line between the two.&lt;/p&gt;
+&lt;p&gt;Many people consider Measures to be objective and stories to be subjective —
+though that distinction isn’t as clear cut as those people might think.&lt;/p&gt;
+&lt;p&gt;The fact that other assessments have been made are also observations, which can
+be categorized into stories (usually) or measures (when considered as a group,
+such as the number of people surveyed who assessed the weatherman as “generally
+accurate”).&lt;/p&gt;
+&lt;p&gt;Given stories and measures, people form assessments.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/assessments/partial_model.png&#34; alt=&#34;The previous drawing with arrows from each of Stories and Measures to theAssessment drawing from near the beginning&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In the ideal case, the appropriate stories and measures will be selected and
+weighed to form an assessment.  In the all-too-common case, people form a “snap
+judgement” with what they have available, whether or not it’s appropriate to
+the assessment being made.&lt;/p&gt;
+&lt;h3 id=&#34;its-complicated&#34;&gt;It&amp;rsquo;s… Complicated&lt;/h3&gt;
+&lt;p&gt;So, here we have a full view of how we make an assessment, right?  Well, not
+quite.  In reality, it’s more like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/assessments/biases.png&#34; alt=&#34;The previous drawing but obscured with a semi-opaque blurry layer. &amp;ldquo;Biases&amp;rdquo;is superimposed in red&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In the interests of clarity, I model biases as an input to the assessment
+rather than obscuring the entire diagram — but make no mistake, there is bias
+in everything from what and how we observe through how the observations are
+categorized, what observations should be used, or the weight they are given in
+the assessment.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cjhuitt.com/mk/assessments/model.png&#34; alt=&#34;The previous drawing but rather than a layer for Biases, a drawing of ananvil labeled &amp;ldquo;Biases&amp;rdquo; is included instead. An arrow also goes from Biases toAssessment.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;It gets messy – but wait!  There’s more!&lt;/p&gt;
+&lt;p&gt;Not only are biases at play, but assessments recurse — the assessments
+themselves (as well as observations and biases) are naturally incorporated into
+reality, where they form the basis for other assessments.  Remember the survey
+for if the weatherman is “generally accurate”?  Each of the answers to that
+survey was an assessment, which were then observed, collated, and measured.
+ Assessments can be stories others tell, or even stories you tell yourself that
+feed into another assessment.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;using-the-model&#34;&gt;Using the Model&lt;/h2&gt;
+&lt;p&gt;So how does a manager evaluate their employee?  Using this model, I’d suggest
+(and have done for myself) making a list of the 3-10 things that are most
+important for the position, and measuring or assessing those — recursing a
+couple of levels if necessary.  Additionally, list the biases you know and
+spend some time thinking how you might counter them.&lt;/p&gt;
+&lt;p&gt;For example, if evaluating a software developer, I might concentrate on
+individual productivity, team contributions, and company values for an
+assessment.&lt;/p&gt;
+&lt;p&gt;Individual productivity is another assessment that might be judged by a set of
+the following: number and impact of code contributions, number and impact of
+tasks or features delivered, or contributions to improving architecture,
+reducing technical debt, or streamlining processes.&lt;/p&gt;
+&lt;p&gt;Team contributions might include helping or mentoring others, participating in
+team meetings, occasionally volunteering for the disliked tasks, or studying
+facilitation, coaching, or processes in order to help the team grow.&lt;/p&gt;
+&lt;p&gt;Most companies will have values they espouse.  I’d look at them for expected
+behaviors of a software dev that would exhibit those values, and look for those
+actions in the employee.  Alternately, look at the employee’s most common or
+typical actions and see how well they align to the company’s values.&lt;/p&gt;
+&lt;p&gt;For each of the above, I might ask coworkers to provide their input as well.&lt;/p&gt;
+&lt;p&gt;Finally, my list of biases might include that I prefer working with people who
+exhibit high autonomy, I might be pre-inclined one way or another due to input
+from others, and I prefer and value team work over individual work — in
+addition to all the usual implicit (hopefully not explicit) biases people might
+have around gender, race, age, or a number of other protected categories.  In
+order to counter these, I would attempt to compare any measurements I make
+against a sample of other developers to avoid weighting the measures one
+direction or another, and perhaps make a list of the measures and stories and
+run that list without identifying information by another supervisor or two in
+order to check myself.&lt;/p&gt;
+&lt;p&gt;Finally, I’d remind myself that assessments are fuzzy by their nature, and I’m
+liable to be wrong.  That helps me keep an open mind for more ideas and
+observations that the employee may bring up, as well as those from others
+sources.&lt;/p&gt;
+&lt;p&gt;The details will obviously be adapted to your unique situation, so give it a
+shot and let me know how it goes.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This post originally appeared on management-kaizen.com&lt;/em&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/categories/management-kaizen/" term="Management Kaizen" label="Management Kaizen" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/models/" term="models" label="models" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Should I Not Refer to My Team As Resources?</title>
+            <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/people_resources/" />
+            <id>https://cjhuitt.com/posts/people_resources/</id>
+            <updated>2023-12-06T15:34:12-06:00</updated>
+            <published>2019-02-09T15:42:14-06:00</published>
+            <author>
+                    <name>Caleb Huitt</name>
+                    <uri>https://cjhuitt.com/</uri>
+                    </author>
+            <rights>©️ Caleb Huitt</rights><summary type="html">There are a number of reasons to not call devs by terms they dislike, but let&amp;rsquo;s start with the first: they don&amp;rsquo;t like it. If you care about your team members, that should be enough in itself. And just in case it isn&amp;rsquo;t, developers are in demand right now, so at the small cost of changing a bit of your vocabulary, you can help keep one from leaving when the cost of replacing a developer is potentially so high.</summary>
+            
+                <content type="html">&lt;p&gt;There are a number of reasons to not call devs by terms they dislike, but let&amp;rsquo;s
+start with the first: they don&amp;rsquo;t like it.  If you care about your team members,
+that should be enough in itself.  And just in case it isn&amp;rsquo;t, developers are in
+demand right now, so at the small cost of changing a bit of your vocabulary,
+you can help keep one from leaving when the cost of replacing a developer is
+potentially so high.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;One of my devs got upset when they heard me refer to the team as resources.
+Why?  What should I say instead?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;these-are-bad-ideas&#34;&gt;These are bad ideas&lt;/h2&gt;
+&lt;h3 id=&#34;resources&#34;&gt;Resources&lt;/h3&gt;
+&lt;p&gt;This is the classic case, and one that devs resent the most.  It screams of
+both dehumanizing people into interchangeable parts, and of the worst sort of
+business jargon.  At best, the resource is the developer&amp;rsquo;s time, of which
+anyone has only a finite amount.&lt;/p&gt;
+&lt;h3 id=&#34;heads-or-bodies&#34;&gt;Heads (or bodies)&lt;/h3&gt;
+&lt;p&gt;Nearly as bad as resources, this is a basically dehumanizing way to refer to
+people, treating them as interchangeable parts.&lt;/p&gt;
+&lt;h3 id=&#34;reports&#34;&gt;Reports&lt;/h3&gt;
+&lt;p&gt;Some don&amp;rsquo;t find this problematic, but to some it reeks of grade school and
+being overseen (developers &lt;a href=&#34;https://www.ted.com/talks/dan_pink_the_puzzle_of_motivation?language=en&#34;&gt;value their
+autonomy&lt;/a&gt;).&lt;/p&gt;
+&lt;h3 id=&#34;guys&#34;&gt;Guys&lt;/h3&gt;
+&lt;p&gt;In some parts of the English speaking world, people (mostly men) consider this
+a gender-neutral term.  &lt;a href=&#34;https://www.theatlantic.com/family/archive/2018/08/guys-gender-neutral/568231/&#34;&gt;I&amp;rsquo;ve heard differing
+opinions&lt;/a&gt;,
+and besides that, it&amp;rsquo;s far from universal, so you risk alienating many of the
+people you are supposed to be working with.&lt;/p&gt;
+&lt;h3 id=&#34;my-resourcesheadsbodiesreportsguys&#34;&gt;My [resources|heads|bodies|reports|guys]&lt;/h3&gt;
+&lt;p&gt;Adding &amp;ldquo;my&amp;rdquo; to the beginning of any of these terms implies possession, which
+makes it worse for those who already dislike the terms.&lt;/p&gt;
+&lt;h3 id=&#34;minions&#34;&gt;Minions&lt;/h3&gt;
+&lt;p&gt;Just&amp;hellip; don&amp;rsquo;t.&lt;/p&gt;
+&lt;h2 id=&#34;better-substitutes&#34;&gt;Better Substitutes&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s hard to stop using certain terms without good substitutes, however, so
+here are some alternatives you can try using:&lt;/p&gt;
+&lt;h3 id=&#34;staff&#34;&gt;Staff&lt;/h3&gt;
+&lt;p&gt;This seems to be an older term, as far as tech goes, which means most devs are
+probably neutral on it… and in the end, it basically means people who are being
+managed by you, which is accurate.&lt;/p&gt;
+&lt;h3 id=&#34;employees&#34;&gt;Employees&lt;/h3&gt;
+&lt;p&gt;Similar to staff, though more straightforward.  As a statement of fact, it&amp;rsquo;s
+hard to argue against, but the alternatives below are better.&lt;/p&gt;
+&lt;h3 id=&#34;developers-or-appropriate-role&#34;&gt;Developers (or appropriate role)&lt;/h3&gt;
+&lt;p&gt;It&amp;rsquo;s what they do, and what they are being paid to do.  You might find a couple
+who argue they do something different (software crafter, perhaps?) but this
+directly references the value they provide to the business.&lt;/p&gt;
+&lt;h3 id=&#34;team-or-team-members-or-team-name&#34;&gt;Team (or team members, or team name)&lt;/h3&gt;
+&lt;p&gt;Explicitly referring to the teams that exist is probably the best option when
+you have to be explicit about exactly who is going to be involved.&lt;/p&gt;
+&lt;h3 id=&#34;we&#34;&gt;We&lt;/h3&gt;
+&lt;p&gt;Perhaps even better than referring to a team, because you&amp;rsquo;re including yourself
+in the effort.&lt;/p&gt;
+&lt;p&gt;Of course, it&amp;rsquo;s easy to say you want to change how you talk, and harder to
+actually do so.  You can start by letting your team members know that you
+intend to try, and ask them to call you out on failures.  If you want or need
+to go a step further, there&amp;rsquo;s always the classic &lt;a href=&#34;https://en.wikipedia.org/wiki/Swear_jar&#34;&gt;money jar
+technique&lt;/a&gt;, and some places have
+&lt;a href=&#34;https://slack.com/resources/using-slack/a-guide-to-slackbot-custom-responses&#34;&gt;hooked up slackbot
+auto-responses&lt;/a&gt;
+to help them learn to moderate their language.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/categories/management-kaizen/" term="Management Kaizen" label="Management Kaizen" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/communication/" term="communication" label="communication" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/employees/" term="employees" label="employees" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/resources/" term="resources" label="resources" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/staff/" term="staff" label="staff" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/terminology/" term="terminology" label="terminology" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">As a Manager, How Can I Keep Up My Coding Chops?</title>
+            <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/manager_keep_coding/" />
+            <id>https://cjhuitt.com/posts/manager_keep_coding/</id>
+            <updated>2023-12-06T15:34:04-06:00</updated>
+            <published>2019-01-27T17:59:53-06:00</published>
+            <author>
+                    <name>Caleb Huitt</name>
+                    <uri>https://cjhuitt.com/</uri>
+                    </author>
+            <rights>©️ Caleb Huitt</rights><summary type="html">At one point, you were probably pretty good at slinging code. But once you got into people management &amp;ndash; the hiring and firing, the performance and salaries and reviews and career plans, the team and project coordination, and everything else that goes with it &amp;ndash; you realized that it takes up a huge amount of time.</summary>
+            
+                <content type="html">&lt;p&gt;At one point, you were probably pretty good at slinging code.  But once you got
+into people management &amp;ndash; the hiring and firing, the performance and salaries
+and reviews and career plans, the team and project coordination, and everything
+else that goes with it &amp;ndash; you realized that it takes up a huge amount of time.&lt;/p&gt;
+&lt;p&gt;Much of this work involves meetings, which slice up the time you do have &amp;ndash; the
+classic case of &lt;a href=&#34;http://www.paulgraham.com/makersschedule.html&#34;&gt;Maker&amp;rsquo;s Time vs. Manager&amp;rsquo;s
+Time&lt;/a&gt;.  There&amp;rsquo;s a reason it was
+labeled Manager&amp;rsquo;s Time, and you&amp;rsquo;re now in it.&lt;/p&gt;
+&lt;p&gt;But you don&amp;rsquo;t want to lose your technical chops.&lt;/p&gt;
+&lt;p&gt;The good news is, you don&amp;rsquo;t have to give up coding completely.  (If you like to
+code, I&amp;rsquo;d actually suggest you don&amp;rsquo;t give it up, even if it&amp;rsquo;s just side
+projects.)&lt;/p&gt;
+&lt;p&gt;First of all, you can&amp;rsquo;t put yourself in the critical code path for delivery &amp;ndash;
+your job now is different.  Per Murphy, you&amp;rsquo;ll be called to fire-fight
+elsewhere right when the delivery of the ticket you took is most necessary.&lt;/p&gt;
+&lt;p&gt;But!  All is not lost.  Even at work, there are ways you can contribute, and
+beneficial reasons to do so.&lt;/p&gt;
+&lt;p&gt;The main answer is in the restrictions… you can&amp;rsquo;t pull a JIRA ticket that&amp;rsquo;s in
+the critical path, but there are always tickets hanging around that aren&amp;rsquo;t.&lt;/p&gt;
+&lt;p&gt;You can resolve technical debt by&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Adding a test&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Refactor a piece of code&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fixing a defect (especially one of those nagging, lower-priority bugs)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can help your team learn by&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Pairing with junior devs&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Do an exploratory spike of code for an upcoming project&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Trial a different tool, or an upgrade&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And finally, you can do some kaizen by&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Measure app performance and optimize a slow spot&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Write a helper script for the dev process&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Write a helper script for you to gather metrics or data points&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;One last consideration: remember the Manager&amp;rsquo;s Time.  Choose something that can
+be done in bits and pieces, between other tasks.  This usually means something
+simpler than you&amp;rsquo;re used to, or at least something without large context to
+reacquire.  (Using TDD and small commits can really help with this.)&lt;/p&gt;
+&lt;p&gt;P.S. The options listed here can all help improve your team&amp;rsquo;s ability to
+deliver code over time as well &amp;ndash; one of the things you should be working on as
+a manager.  Just don&amp;rsquo;t do so to the neglect of anything else.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This post originally appeared on management-kaizen.com&lt;/em&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/categories/management-kaizen/" term="Management Kaizen" label="Management Kaizen" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/coding/" term="coding" label="coding" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/junior-devs/" term="junior devs" label="junior devs" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/manager-time/" term="manager time" label="manager time" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/pairing/" term="pairing" label="pairing" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/refactoring/" term="refactoring" label="refactoring" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/tdd/" term="tdd" label="tdd" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">How Should I Respond When a Junior Developer Asks For Help?</title>
+            <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/junior_asks_for_help/" />
+            <id>https://cjhuitt.com/posts/junior_asks_for_help/</id>
+            <updated>2023-12-06T15:33:47-06:00</updated>
+            <published>2018-12-27T16:42:33-06:00</published>
+            <author>
+                    <name>Caleb Huitt</name>
+                    <uri>https://cjhuitt.com/</uri>
+                    </author>
+            <rights>©️ Caleb Huitt</rights><summary type="html">You have a few junior devs you&amp;rsquo;re trying to keep productive, but you don&amp;rsquo;t want to spoon-feed them answers. It&amp;rsquo;s better over the long term if they learn and figure it out themselves. Your boss might even have told you not avoid spoon-fed answers, but they also expect productivity out of the team.</summary>
+            
+                <content type="html">&lt;p&gt;You have a few junior devs you&amp;rsquo;re trying to keep productive, but you don&amp;rsquo;t want
+to spoon-feed them answers.  It&amp;rsquo;s better over the long term if they learn and
+figure it out themselves.  Your boss might even have told you not avoid
+spoon-fed answers, but they also expect productivity out of the team.&lt;/p&gt;
+&lt;p&gt;You may recall having a hard time getting answers yourself when you started as
+a junior developer.&lt;/p&gt;
+&lt;p&gt;The Socratic method &amp;ndash; answering all their questions with one of your own
+designed to make them think of the answer themselves &amp;ndash; can be beneficial in
+small doses, but it&amp;rsquo;s pretty easy to come off as an asshole if you&amp;rsquo;re
+constantly replying with Socratic questions, so you need to dry the line
+somewhere.  It&amp;rsquo;s also hard to figure out the best questions on the fly.&lt;/p&gt;
+&lt;p&gt;Someone might have suggested you read The Coaching Habit, but it&amp;rsquo;s hard to find
+the time to read all the books you&amp;rsquo;re supposed to &amp;ndash; especially when you&amp;rsquo;re
+constantly interrupted with questions.&lt;/p&gt;
+&lt;p&gt;Of course, if it&amp;rsquo;s something trivial, it&amp;rsquo;s not really worth it trying to force
+a learning experience.  If you now the answer is on StackOverflow or elsewhere,
+ask them to search for their answer, and otherwise answer it yourself.  (If a
+junior dev continues to bring trivial questions your way, start insisting they
+also bring the results from the searches they&amp;rsquo;ve already tried.)&lt;/p&gt;
+&lt;p&gt;If it&amp;rsquo;s not trivial, here&amp;rsquo;s a routine set of questions you can go through that
+should get junior developers starting to become more self-reliant, without
+sounding like an asshole.&lt;/p&gt;
+&lt;h2 id=&#34;can-they-clearly-describe-the-problem&#34;&gt;Can They Clearly Describe the Problem?&lt;/h2&gt;
+&lt;p&gt;The first thing to do is to make sure they can explain the problem they are
+having clearly.  If they can&amp;rsquo;t do this, then they don&amp;rsquo;t really understand what
+they&amp;rsquo;re trying to solve.  Ask clarifying questions &amp;ndash; this both helps make sure
+you truly understand the problem they are having, and gets them thinking along
+those lines.  Frequently, this will be enough to solve the problem.
+Congratulations, you&amp;rsquo;re a highly skilled rubber duck.&lt;/p&gt;
+&lt;h2 id=&#34;have-they-done-an-internet-search&#34;&gt;Have They Done an Internet Search?&lt;/h2&gt;
+&lt;p&gt;If they still don&amp;rsquo;t know what to do next after clearly describing their
+problem, ask what searches they&amp;rsquo;ve already done to find answers.  This lets you
+double-check their understanding of the problem.  If they haven&amp;rsquo;t yet done so,
+ask them to see what they can find for themselves, and come get you again in 10
+minutes if the problem persists.  (You may choose to stick around helping them
+search the first time or two, but don&amp;rsquo;t make a habit of it &amp;ndash; you want them to
+become increasingly self-reliant for the first few steps, and that means
+searching without you to help).  After a few times of consistently asking this
+question, they&amp;rsquo;ll start to do this step before bringing the problem to you,
+solving some more problems before you need to intervene.  Congratulations,
+they&amp;rsquo;re already doing more on their own, which means you&amp;rsquo;re spoonfeeding them
+less.&lt;/p&gt;
+&lt;h2 id=&#34;what-have-they-tried&#34;&gt;What Have They Tried?&lt;/h2&gt;
+&lt;p&gt;Ask them what they&amp;rsquo;ve alredy tried.  This is an important step &amp;ndash; how often
+have you worked with a complete newb and watched them ask for help without
+trying anything themselves?  Don&amp;rsquo;t let this habit continue; instead, insist
+that they try something on their own to solve them problem before you get
+involved.  The first few times they haven&amp;rsquo;t done any, you should ask what they
+can think of to try, and either encourage them to follow the first effort if
+you think it&amp;rsquo;s a good one, or reprioritize their first efforts based on your
+own knowledge and ideas of what needs to be done.  Either way, have them try at
+least two things and get back to you if they still can&amp;rsquo;t figure it out.  If
+they&amp;rsquo;ve already tried at least two things, and they appear to be near the
+solution, here&amp;rsquo;s where your judgement comes into play.  You can either give
+them a concrete direction to solve the problem now, or move on to the last
+step.  If you do reprioritize their efforts or give them the next step to try,
+be sure to explain at least one level of the thinking behind your response, so
+they know more for next time.&lt;/p&gt;
+&lt;p&gt;This set of responses should eventually get the most junior of developers to
+more self-reliant for the initial stages of fixing problems.  If there&amp;rsquo;s a
+problem that makes it through this gauntlet of questions, it&amp;rsquo;s time to settle
+in for some dedicated learning &amp;ndash; whiteboarding, pair programming, or whatever
+is appropriate in your situation.  But have heart &amp;ndash; most of the annoying
+requests for help will be handled by the previous questions, so by the time
+this is a regular thing, the juniors will be primed for learning, and won&amp;rsquo;t
+stay junior for long.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This post originally appeared on management-kaizen.com&lt;/em&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/categories/management-kaizen/" term="Management Kaizen" label="Management Kaizen" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/coaching/" term="coaching" label="coaching" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/junior-devs/" term="junior devs" label="junior devs" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
                             
                         
                     
