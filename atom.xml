@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Caleb Huitt</title>
     <subtitle type="html">Personal page and blog of Caleb Huitt</subtitle>
-    <updated>2023-12-30T10:02:13-06:00</updated>
+    <updated>2023-12-30T10:23:11-06:00</updated>
     <id>https://cjhuitt.com/</id>
     <link rel="alternate" type="text/html" href="https://cjhuitt.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://cjhuitt.com/atom.xml" />
@@ -15,16 +15,16 @@
     <rights>©️ Caleb Huitt</rights>
     <generator uri="https://gohugo.io/" version="0.121.1">Hugo</generator>
         <entry>
-            <title type="text">4 The Words</title>
+            <title type="text">4thewords</title>
             <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/4_the_words/" />
             <id>https://cjhuitt.com/posts/4_the_words/</id>
-            <updated>2023-12-30T09:59:27-06:00</updated>
-            <published>2023-11-27T21:44:18-06:00</published>
+            <updated>2023-12-30T10:13:43-06:00</updated>
+            <published>2023-12-27T21:44:18-06:00</published>
             <author>
                     <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
-            <rights>©️ Caleb Huitt</rights><summary type="html">I&amp;rsquo;ve been using 4thewords.com1 for a little more than 4 years now. It has definitely helped improve my writing habits — I write more frequently than I did before using the site2, and writing has become a little bit more fun even when things are stuck.</summary>
+            <rights>©️ Caleb Huitt</rights><summary type="html">&lt;a href=&#34;4thewords.com&#34;&gt;4thewords&lt;/a&gt; has helped improve my writing habits for over 4 years now. It&amp;rsquo;s a wonderful RPG gamification for writers — if that&amp;rsquo;s you, you should check it out.</summary>
             
                 <content type="html">&lt;p&gt;I&amp;rsquo;ve been using &lt;a href=&#34;https://4thewords.com&#34;&gt;4thewords.com&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://cjhuitt.com/posts/4_the_words/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; for a little more
 than 4 years now. It has definitely helped improve my writing habits — I write
@@ -299,13 +299,13 @@ it.&amp;#160;&lt;a href=&#34;https://cjhuitt.com/posts/changing_circumstances_co
             <title type="text">Kickstarter for Schlock Mercenary: Mandatory Failure</title>
             <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/mandatory_failure/" />
             <id>https://cjhuitt.com/posts/mandatory_failure/</id>
-            <updated>2023-10-07T20:30:59-05:00</updated>
+            <updated>2023-12-30T10:15:58-06:00</updated>
             <published>2023-10-07T19:38:27-05:00</published>
             <author>
                     <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
-            <rights>©️ Caleb Huitt</rights><summary type="html">I don&amp;rsquo;t remember when I started reading Schlock Mercenary1, but it was at least ten years ago. That&amp;rsquo;s a pretty solid quarter of the part of my life I can remember (which is an odd idea in itself, that a decade could only cover that much time).</summary>
+            <rights>©️ Caleb Huitt</rights><summary type="html">&lt;a href=&#34;https://www.schlockmercenary.com&#34;&gt;Schlock Mercenary&lt;/a&gt; is a fantastically fun webcomic. The Howard Tayler is running a Kickstarter for the 18th book, and you should join in.</summary>
             
                 <content type="html">&lt;p&gt;I don&amp;rsquo;t remember when I started reading &lt;a href=&#34;https://www.schlockmercenary.com&#34;&gt;Schlock
 Mercenary&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://cjhuitt.com/posts/mandatory_failure/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, but it was at least ten years
@@ -969,13 +969,13 @@ were realistic.&amp;#160;&lt;a href=&#34;https://cjhuitt.com/posts/dedicated_imp
             <title type="text">A 10-Step Process for Properly Accepting Feedback</title>
             <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/accepting_feedback/" />
             <id>https://cjhuitt.com/posts/accepting_feedback/</id>
-            <updated>2023-12-06T14:18:50-06:00</updated>
+            <updated>2023-12-30T10:18:14-06:00</updated>
             <published>2019-12-28T11:26:06-06:00</published>
             <author>
                     <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
-            <rights>©️ Caleb Huitt</rights><summary type="html">In college, I took a number of humanities courses – I minored in English, primarily creative writing. This frequently involved putting something not very good1 in front of other students so they could tell me the different ways it didn’t work. This kickstarted my lessons on how to take that critical feedback and use it to make my work better.</summary>
+            <rights>©️ Caleb Huitt</rights><summary type="html">In college, I learned how to accept feedback on work that wasn&amp;rsquo;t done very well. This 10-step process what I eventually internalized for accepting critical feedback.</summary>
             
                 <content type="html">&lt;p&gt;In college, I took a number of humanities courses – I minored in English,
 primarily creative writing.  This frequently involved putting something not
@@ -1425,16 +1425,13 @@ diagnostic critiques nonsensical.&amp;#160;&lt;a href=&#34;https://cjhuitt.com/p
             <title type="text">Why I’m Tired of Hearing About the Iron Triangle in Software Development</title>
             <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/iron_triangle/" />
             <id>https://cjhuitt.com/posts/iron_triangle/</id>
-            <updated>2023-12-06T11:31:51-06:00</updated>
+            <updated>2023-12-30T10:19:27-06:00</updated>
             <published>2019-10-27T11:26:42-06:00</published>
             <author>
                     <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
-            <rights>©️ Caleb Huitt</rights><summary type="html">Overheard1:
-&amp;ldquo;What would you say to [the business] in this case?&amp;rdquo;
-&amp;ldquo;I&amp;rsquo;d say &amp;lsquo;fast, cheap, or good, but they can only pick two&amp;rsquo;.&amp;rdquo;
-I was a bystander in this, but my immediate reaction was that it was setting up a false dichotomy for the situation (false trichotomy?</summary>
+            <rights>©️ Caleb Huitt</rights><summary type="html">The Iron Triangle is completely wrong for most software development projects. Let me rant a little about why…</summary>
             
                 <content type="html">&lt;p&gt;Overheard&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://cjhuitt.com/posts/iron_triangle/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1899,15 +1896,13 @@ previously know.  Then keep everyone updated as things change.&lt;/p&gt;
             <title type="text">How Kurt Warner’s Career Relates to Software Developer’s Performance: Players, Coaches, and Systems</title>
             <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/warner_careers_systems/" />
             <id>https://cjhuitt.com/posts/warner_careers_systems/</id>
-            <updated>2023-12-06T15:34:51-06:00</updated>
+            <updated>2023-12-30T10:21:43-06:00</updated>
             <published>2019-08-04T10:58:15-06:00</published>
             <author>
                     <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
-            <rights>©️ Caleb Huitt</rights><summary type="html">A common type of underdog story in professional sports is that of the athlete who wasn’t recognized at one point, kept trying, and went on to perform well. One specific example is Kurt Warner.
-A brief summary of his NFL career:
-Undrafted by any NFL team in 1994 “Fired” from two different teams (Green Bay Packers under Mike Holmgren in 1994, St.</summary>
+            <rights>©️ Caleb Huitt</rights><summary type="html">The system someone works in has a huge influence on how successful they are… as exemplified by undrafted, multiple-times fired, and American Football Hall-of-Fame member Kurt Warner</summary>
             
                 <content type="html">&lt;p&gt;A common type of underdog story in professional sports is that of the athlete
 who wasn’t recognized at one point, kept trying, and went on to perform well.
