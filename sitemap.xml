@@ -2,11 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cjhuitt.com/posts/4_the_words/</loc>
+    <lastmod>2023-12-30T09:59:27-06:00</lastmod>
+  </url><url>
     <loc>https://cjhuitt.com/</loc>
-    <lastmod>2023-12-06T15:34:51-06:00</lastmod>
+    <lastmod>2023-12-30T09:59:27-06:00</lastmod>
   </url><url>
     <loc>https://cjhuitt.com/categories/</loc>
-    <lastmod>2023-12-06T15:34:51-06:00</lastmod>
+    <lastmod>2023-12-30T09:59:27-06:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/posts/</loc>
+    <lastmod>2023-12-30T09:59:27-06:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/categories/recommendations/</loc>
+    <lastmod>2023-12-30T09:59:27-06:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/tags/</loc>
+    <lastmod>2023-12-30T09:59:27-06:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/tags/writing/</loc>
+    <lastmod>2023-12-30T09:59:27-06:00</lastmod>
   </url><url>
     <loc>https://cjhuitt.com/posts/changing_circumstances_code_reviews_and_energy_abundance/</loc>
     <lastmod>2023-10-21T10:42:03-05:00</lastmod>
@@ -23,12 +38,6 @@
     <loc>https://cjhuitt.com/tags/energy-abundance/</loc>
     <lastmod>2023-10-21T10:42:03-05:00</lastmod>
   </url><url>
-    <loc>https://cjhuitt.com/posts/</loc>
-    <lastmod>2023-12-06T15:34:51-06:00</lastmod>
-  </url><url>
-    <loc>https://cjhuitt.com/tags/</loc>
-    <lastmod>2023-12-06T15:34:51-06:00</lastmod>
-  </url><url>
     <loc>https://cjhuitt.com/categories/work-history/</loc>
     <lastmod>2023-10-21T10:42:03-05:00</lastmod>
   </url><url>
@@ -36,9 +45,6 @@
     <lastmod>2023-10-07T20:30:59-05:00</lastmod>
   </url><url>
     <loc>https://cjhuitt.com/posts/mandatory_failure/</loc>
-    <lastmod>2023-10-07T20:30:59-05:00</lastmod>
-  </url><url>
-    <loc>https://cjhuitt.com/categories/recommendations/</loc>
     <lastmod>2023-10-07T20:30:59-05:00</lastmod>
   </url><url>
     <loc>https://cjhuitt.com/tags/schlock/</loc>
