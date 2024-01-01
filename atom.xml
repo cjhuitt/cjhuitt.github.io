@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Caleb Huitt</title>
     <subtitle type="html">Personal page and blog of Caleb Huitt</subtitle>
-    <updated>2023-12-30T10:23:11-06:00</updated>
+    <updated>2023-12-31T18:06:09-06:00</updated>
     <id>https://cjhuitt.com/</id>
     <link rel="alternate" type="text/html" href="https://cjhuitt.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://cjhuitt.com/atom.xml" />
@@ -14,6 +14,91 @@
             </author>
     <rights>©️ Caleb Huitt</rights>
     <generator uri="https://gohugo.io/" version="0.121.1">Hugo</generator>
+        <entry>
+            <title type="text">Reading Review, 2023</title>
+            <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/reading_review_2023/" />
+            <id>https://cjhuitt.com/posts/reading_review_2023/</id>
+            <updated>2023-12-31T18:05:53-06:00</updated>
+            <published>2023-12-30T10:01:31-06:00</published>
+            <author>
+                    <name>Caleb Huitt</name>
+                    <uri>https://cjhuitt.com/</uri>
+                    </author>
+            <rights>©️ Caleb Huitt</rights><summary type="html">Annual reading statistics and observations at the end of 2023…
+Most of this info taken from The Story Graph.
+Overall I started 68 books and finished 65. 2 were abandoned with no plans to revisit, and I&amp;rsquo;m currently reading 1 with little chance to finish before midnight.</summary>
+            
+                <content type="html">&lt;p&gt;Annual reading statistics and observations at the end of 2023…&lt;/p&gt;
+&lt;p&gt;Most of this info taken from &lt;a href=&#34;https://thestorygraph.com&#34;&gt;The Story Graph&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;overall&#34;&gt;Overall&lt;/h2&gt;
+&lt;p&gt;I started 68 books and finished 65. 2 were abandoned with no plans to revisit,
+and I&amp;rsquo;m currently reading 1 with little chance to finish before midnight.&lt;/p&gt;
+&lt;p&gt;I also read 2 magazines not yet included in the totals (I haven&amp;rsquo;t added the&lt;/p&gt;
+&lt;p&gt;This is 5 (8%) more books than last year, which wasn&amp;rsquo;t intentional but not
+unuusal given variations in book length, etc.&lt;/p&gt;
+&lt;h2 id=&#34;composition&#34;&gt;Composition&lt;/h2&gt;
+&lt;p&gt;Most of my reading was Science Fiction and Fantasy – 60 books total. 32 (50%)
+were fantasy and 28 (43%) Science Fiction.&lt;/p&gt;
+&lt;p&gt;I read 4 nonfiction books last year. I&amp;rsquo;d like to improve that in the coming year.&lt;/p&gt;
+&lt;h2 id=&#34;timing&#34;&gt;Timing&lt;/h2&gt;
+&lt;p&gt;I had a small slump in reading around May and June, and then a bigger slump in
+October and November. I&amp;rsquo;m not sure what was happened in the earlier slump, but
+the latter was lead-up and immersion in &lt;a href=&#34;https://nanowrimo.org&#34;&gt;NaNoWriMo&lt;/a&gt;,
+when I intentionally use a lot of my traditional reading time to try and write
+instead.&lt;/p&gt;
+&lt;h2 id=&#34;format&#34;&gt;Format&lt;/h2&gt;
+&lt;p&gt;As in past years, the vast majority of my reading was electronic. I think I
+read 1 book in phsyical format.&lt;/p&gt;
+&lt;h2 id=&#34;selection&#34;&gt;Selection&lt;/h2&gt;
+&lt;p&gt;As mentioned above, only 4 books (6%) were nonfiction, and I want to read more
+of those.&lt;/p&gt;
+&lt;p&gt;For a simple look at some diversity metrics, 36 books (55%) were by female (or
+presenting) authors; 23 (35%) male (or presenting); and 7 (11%) were
+collections, collaborations, or not easily identified.&lt;/p&gt;
+&lt;h2 id=&#34;the-superlatives&#34;&gt;The Superlatives&lt;/h2&gt;
+&lt;p&gt;I read 3 books I gave maximum ratings to:
+- &lt;em&gt;Jade City&lt;/em&gt; and &lt;em&gt;Jade Legacy&lt;/em&gt; by Fonda Lee
+- &lt;em&gt;Bookshops &amp;amp; Bonedust&lt;/em&gt; by Travis Baldtree&lt;/p&gt;
+&lt;p&gt;The best series I read/finished should come as no surprise given that, which
+was The Green Bone Saga by Fonda Lee.&lt;/p&gt;
+&lt;p&gt;My most-read authors were &lt;a href=&#34;https://app.thestorygraph.com/authors/30255568-f9c0-48dd-8b44-3bf4ba4437fa&#34;&gt;Tanya
+Huff&lt;/a&gt;
+(9 books), &lt;a href=&#34;https://app.thestorygraph.com/authors/2ee3fed7-9bff-4a19-868c-d194ca72ce26&#34;&gt;Brandon
+Sanderson&lt;/a&gt;
+(6 books), and &lt;a href=&#34;https://app.thestorygraph.com/authors/a6b709b5-a22d-41a6-9e8d-f87c6bf11a0b&#34;&gt;Seanan
+McGuire&lt;/a&gt;/&lt;a href=&#34;https://app.thestorygraph.com/authors/2279ccae-a0f5-4a0f-bed2-287ce7f35c8a&#34;&gt;Mira
+Grant&lt;/a&gt;
+(5 books)&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/categories/review/" term="Review" label="Review" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/reading/" term="reading" label="reading" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">4thewords</title>
             <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/4_the_words/" />
