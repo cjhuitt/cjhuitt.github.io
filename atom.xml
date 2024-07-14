@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Caleb Huitt</title>
     <subtitle type="html">Personal page and blog of Caleb Huitt</subtitle>
-    <updated>2023-12-31T18:06:09-06:00</updated>
+    <updated>2024-07-14T18:28:50-05:00</updated>
     <id>https://cjhuitt.com/</id>
     <link rel="alternate" type="text/html" href="https://cjhuitt.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://cjhuitt.com/atom.xml" />
@@ -13,7 +13,7 @@
             <uri>https://cjhuitt.com/</uri>
             </author>
     <rights>©️ Caleb Huitt</rights>
-    <generator uri="https://gohugo.io/" version="0.121.1">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.128.2">Hugo</generator>
         <entry>
             <title type="text">Reading Review, 2023</title>
             <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/reading_review_2023/" />
@@ -91,7 +91,7 @@ Grant&lt;/a&gt;
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/reading/" term="reading" label="reading" />
+                                <category scheme="https://cjhuitt.com/tags/reading/" term="Reading" label="Reading" />
                             
                         
                     
@@ -219,7 +219,7 @@ site won&amp;rsquo;t work with that method.&amp;#160;&lt;a href=&#34;https://cjh
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/writing/" term="writing" label="writing" />
+                                <category scheme="https://cjhuitt.com/tags/writing/" term="Writing" label="Writing" />
                             
                         
                     
@@ -360,19 +360,19 @@ it.&amp;#160;&lt;a href=&#34;https://cjhuitt.com/posts/changing_circumstances_co
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/code-review/" term="code review" label="code review" />
+                                <category scheme="https://cjhuitt.com/tags/code-review/" term="Code Review" label="Code Review" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/energy-abundance/" term="energy abundance" label="energy abundance" />
+                                <category scheme="https://cjhuitt.com/tags/energy-abundance/" term="Energy Abundance" label="Energy Abundance" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/contexts/" term="contexts" label="contexts" />
+                                <category scheme="https://cjhuitt.com/tags/contexts/" term="Contexts" label="Contexts" />
                             
                         
                     
@@ -460,13 +460,13 @@ were still story, and still with the characters I showed up to read about.&amp;#
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/schlock/" term="schlock" label="schlock" />
+                                <category scheme="https://cjhuitt.com/tags/schlock/" term="Schlock" label="Schlock" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/kickstarter/" term="kickstarter" label="kickstarter" />
+                                <category scheme="https://cjhuitt.com/tags/kickstarter/" term="Kickstarter" label="Kickstarter" />
                             
                         
                     
@@ -682,25 +682,25 @@ overview&lt;/a&gt;.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/communication/" term="communication" label="communication" />
+                                <category scheme="https://cjhuitt.com/tags/communication/" term="Communication" label="Communication" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/clarity/" term="clarity" label="clarity" />
+                                <category scheme="https://cjhuitt.com/tags/clarity/" term="Clarity" label="Clarity" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/systems/" term="systems" label="systems" />
+                                <category scheme="https://cjhuitt.com/tags/systems/" term="Systems" label="Systems" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="Ported" label="Ported" />
                             
                         
                     
@@ -1018,31 +1018,31 @@ were realistic.&amp;#160;&lt;a href=&#34;https://cjhuitt.com/posts/dedicated_imp
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/kaizen/" term="kaizen" label="kaizen" />
+                                <category scheme="https://cjhuitt.com/tags/kaizen/" term="Kaizen" label="Kaizen" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/models/" term="models" label="models" />
+                                <category scheme="https://cjhuitt.com/tags/models/" term="Models" label="Models" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/montecarlo/" term="montecarlo" label="montecarlo" />
+                                <category scheme="https://cjhuitt.com/tags/montecarlo/" term="Montecarlo" label="Montecarlo" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/numbers/" term="numbers" label="numbers" />
+                                <category scheme="https://cjhuitt.com/tags/numbers/" term="Numbers" label="Numbers" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="Ported" label="Ported" />
                             
                         
                     
@@ -1186,25 +1186,25 @@ other people interact with your work.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/communication/" term="communication" label="communication" />
+                                <category scheme="https://cjhuitt.com/tags/communication/" term="Communication" label="Communication" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/feedback/" term="feedback" label="feedback" />
+                                <category scheme="https://cjhuitt.com/tags/feedback/" term="Feedback" label="Feedback" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/systems/" term="systems" label="systems" />
+                                <category scheme="https://cjhuitt.com/tags/systems/" term="Systems" label="Systems" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="Ported" label="Ported" />
                             
                         
                     
@@ -1480,25 +1480,25 @@ diagnostic critiques nonsensical.&amp;#160;&lt;a href=&#34;https://cjhuitt.com/p
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/communication/" term="communication" label="communication" />
+                                <category scheme="https://cjhuitt.com/tags/communication/" term="Communication" label="Communication" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/feedback/" term="feedback" label="feedback" />
+                                <category scheme="https://cjhuitt.com/tags/feedback/" term="Feedback" label="Feedback" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/models/" term="models" label="models" />
+                                <category scheme="https://cjhuitt.com/tags/models/" term="Models" label="Models" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="Ported" label="Ported" />
                             
                         
                     
@@ -1652,25 +1652,25 @@ quality code as loudly and often as you can.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/estimation/" term="estimation" label="estimation" />
+                                <category scheme="https://cjhuitt.com/tags/estimation/" term="Estimation" label="Estimation" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/kaizen/" term="kaizen" label="kaizen" />
+                                <category scheme="https://cjhuitt.com/tags/kaizen/" term="Kaizen" label="Kaizen" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/quality/" term="quality" label="quality" />
+                                <category scheme="https://cjhuitt.com/tags/quality/" term="Quality" label="Quality" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="Ported" label="Ported" />
                             
                         
                     
@@ -1945,31 +1945,31 @@ previously know.  Then keep everyone updated as things change.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/affinity/" term="affinity" label="affinity" />
+                                <category scheme="https://cjhuitt.com/tags/affinity/" term="Affinity" label="Affinity" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/coaching/" term="coaching" label="coaching" />
+                                <category scheme="https://cjhuitt.com/tags/coaching/" term="Coaching" label="Coaching" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/estimating/" term="estimating" label="estimating" />
+                                <category scheme="https://cjhuitt.com/tags/estimating/" term="Estimating" label="Estimating" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/facilitating/" term="facilitating" label="facilitating" />
+                                <category scheme="https://cjhuitt.com/tags/facilitating/" term="Facilitating" label="Facilitating" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="Ported" label="Ported" />
                             
                         
                     
@@ -2092,25 +2092,25 @@ in their mastery.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/coaching/" term="coaching" label="coaching" />
+                                <category scheme="https://cjhuitt.com/tags/coaching/" term="Coaching" label="Coaching" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/models/" term="models" label="models" />
+                                <category scheme="https://cjhuitt.com/tags/models/" term="Models" label="Models" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/systems/" term="systems" label="systems" />
+                                <category scheme="https://cjhuitt.com/tags/systems/" term="Systems" label="Systems" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="Ported" label="Ported" />
                             
                         
                     
@@ -2252,37 +2252,37 @@ appreciated and I’m more likely to write more articles like it. 😉&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/behavior/" term="behavior" label="behavior" />
+                                <category scheme="https://cjhuitt.com/tags/behavior/" term="Behavior" label="Behavior" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/feedback/" term="feedback" label="feedback" />
+                                <category scheme="https://cjhuitt.com/tags/feedback/" term="Feedback" label="Feedback" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/impact/" term="impact" label="impact" />
+                                <category scheme="https://cjhuitt.com/tags/impact/" term="Impact" label="Impact" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/sbi/" term="sbi" label="sbi" />
+                                <category scheme="https://cjhuitt.com/tags/sbi/" term="Sbi" label="Sbi" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/situation/" term="situation" label="situation" />
+                                <category scheme="https://cjhuitt.com/tags/situation/" term="Situation" label="Situation" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="Ported" label="Ported" />
                             
                         
                     
@@ -2456,13 +2456,13 @@ shot and let me know how it goes.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/models/" term="models" label="models" />
+                                <category scheme="https://cjhuitt.com/tags/models/" term="Models" label="Models" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="Ported" label="Ported" />
                             
                         
                     
@@ -2566,37 +2566,37 @@ to help them learn to moderate their language.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/communication/" term="communication" label="communication" />
+                                <category scheme="https://cjhuitt.com/tags/communication/" term="Communication" label="Communication" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/employees/" term="employees" label="employees" />
+                                <category scheme="https://cjhuitt.com/tags/employees/" term="Employees" label="Employees" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/resources/" term="resources" label="resources" />
+                                <category scheme="https://cjhuitt.com/tags/resources/" term="Resources" label="Resources" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/staff/" term="staff" label="staff" />
+                                <category scheme="https://cjhuitt.com/tags/staff/" term="Staff" label="Staff" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/terminology/" term="terminology" label="terminology" />
+                                <category scheme="https://cjhuitt.com/tags/terminology/" term="Terminology" label="Terminology" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="Ported" label="Ported" />
                             
                         
                     
@@ -2701,43 +2701,43 @@ a manager.  Just don&amp;rsquo;t do so to the neglect of anything else.&lt;/p&gt
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/coding/" term="coding" label="coding" />
+                                <category scheme="https://cjhuitt.com/tags/coding/" term="Coding" label="Coding" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/junior-devs/" term="junior devs" label="junior devs" />
+                                <category scheme="https://cjhuitt.com/tags/junior-devs/" term="Junior Devs" label="Junior Devs" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/manager-time/" term="manager time" label="manager time" />
+                                <category scheme="https://cjhuitt.com/tags/manager-time/" term="Manager Time" label="Manager Time" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/pairing/" term="pairing" label="pairing" />
+                                <category scheme="https://cjhuitt.com/tags/pairing/" term="Pairing" label="Pairing" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/refactoring/" term="refactoring" label="refactoring" />
+                                <category scheme="https://cjhuitt.com/tags/refactoring/" term="Refactoring" label="Refactoring" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/tdd/" term="tdd" label="tdd" />
+                                <category scheme="https://cjhuitt.com/tags/tdd/" term="Tdd" label="Tdd" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="Ported" label="Ported" />
                             
                         
                     
@@ -2846,19 +2846,19 @@ stay junior for long.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/coaching/" term="coaching" label="coaching" />
+                                <category scheme="https://cjhuitt.com/tags/coaching/" term="Coaching" label="Coaching" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/junior-devs/" term="junior devs" label="junior devs" />
+                                <category scheme="https://cjhuitt.com/tags/junior-devs/" term="Junior Devs" label="Junior Devs" />
                             
                         
                             
                             
                             
-                                <category scheme="https://cjhuitt.com/tags/ported/" term="ported" label="ported" />
+                                <category scheme="https://cjhuitt.com/tags/ported/" term="Ported" label="Ported" />
                             
                         
                     
