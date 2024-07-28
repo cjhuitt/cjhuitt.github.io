@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Caleb Huitt</title>
     <subtitle type="html">Personal page and blog of Caleb Huitt</subtitle>
-    <updated>2024-07-14T18:28:50-05:00</updated>
+    <updated>2024-07-27T20:30:56-05:00</updated>
     <id>https://cjhuitt.com/</id>
     <link rel="alternate" type="text/html" href="https://cjhuitt.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://cjhuitt.com/atom.xml" />
@@ -13,7 +13,119 @@
             <uri>https://cjhuitt.com/</uri>
             </author>
     <rights>©️ Caleb Huitt</rights>
-    <generator uri="https://gohugo.io/" version="0.128.2">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.129.0">Hugo</generator>
+        <entry>
+            <title type="text">Worst Bug 1: Accidentally Wiping the Drive in Linux</title>
+            <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/worst_bug_1/" />
+            <id>https://cjhuitt.com/posts/worst_bug_1/</id>
+            <updated>2024-07-27T20:29:13-05:00</updated>
+            <published>2024-07-27T20:26:34-05:00</published>
+            <author>
+                    <name>Caleb Huitt</name>
+                    <uri>https://cjhuitt.com/</uri>
+                    </author>
+            <rights>©️ Caleb Huitt</rights><summary type="html">A recent discussion on a chat server about mistakes and what people learned from them reminded me of one of my worst (most potentially catastrophic) defects. This is from nearly two decades ago, so the exact details are fuzzy, but I definitely remember the key elements.</summary>
+            
+                <content type="html">&lt;p&gt;A recent discussion on a chat server about mistakes and what people learned
+from them reminded me of one of my worst (most potentially catastrophic)
+defects. This is from nearly two decades ago, so the exact details are fuzzy,
+but I definitely remember the key elements.&lt;/p&gt;
+&lt;h2 id=&#34;the-software&#34;&gt;The Software&lt;/h2&gt;
+&lt;p&gt;This particular app was a GUI for data analysis, made by the same company that
+made the analyzer app (which was a command-line app that could take days to
+run). It dealt with large amounts of data (or it felt that way at the time),
+and let the user view a rendering of the data from different angles.&lt;/p&gt;
+&lt;p&gt;Over time, the software developed a number of abilities — not just to control
+the details of the visualization, but radical things like being able to view
+from any angle (rather than a handful of presets), continuous saves, unlimited
+(in-session) undo, and threaded background file reading. Somewhere in here it
+also gained the ability to do some prep for controlling the analysis software,
+letting the user visualize the inputs so they didn&amp;rsquo;t run the analysis for a few
+days only to find out they&amp;rsquo;d set it up incorrectly.&lt;/p&gt;
+&lt;h2 id=&#34;the-first-report&#34;&gt;The First Report&lt;/h2&gt;
+&lt;p&gt;One morning one of the internal users (an analyst) reported seeing the app
+trying to delete his entire home directory on shutdown. After some prodding, he
+actually noticed it trying to delete some network mount files he didn&amp;rsquo;t have
+permission to edit, which was throwing warnings, but there were definitely some
+files that had been deleted from his home directory as well. I heard it
+secondhand, from a developer who was in the room with him when it happened
+(small company), and who had him kill the process as quickly as he could.&lt;/p&gt;
+&lt;p&gt;Obviously we tried to reproduce — &lt;em&gt;after&lt;/em&gt; disabling absolutely every spot that
+interacts with files and logging the action instead. It took a couple hours of
+trying and tracing, but we were able to track it down.&lt;/p&gt;
+&lt;h2 id=&#34;the-cause&#34;&gt;The Cause&lt;/h2&gt;
+&lt;p&gt;This application worked with some large files. We had recently tried to make it
+nicer for users by caching some of the info (in a temp dir) while the app was
+running. &lt;/p&gt;
+&lt;p&gt;This was back in the days before there was a lot of room on hard drives to keep
+this cache data around — not for the sizes of files this app was dealing with.
+So, being (we thought), good and proper stewards of hard drive space, we
+cleaned up that cache data when the program quit.&lt;/p&gt;
+&lt;p&gt;Experienced developers probably already see where this was going.&lt;/p&gt;
+&lt;p&gt;To speed startup, we delayed most things we could until after the app was up
+and going. That included setting up the cache directory (the user had either
+given a file on the command line, in which case the assorted set-up code would
+need to be run anyway and it wouldn&amp;rsquo;t show any faster, or they opened it and
+then navigated a file selector dialog, in which case we could generally set it
+up before they&amp;rsquo;d even selected the first file or folder).&lt;/p&gt;
+&lt;p&gt;What happened if the user quit (and the app processed the quit) before the
+cache directory was set up? Well, you&amp;rsquo;ve read the bug report already, but the
+app would dutifully take the (empty) path, append &amp;ldquo;/*&amp;rdquo;, and tell the system to
+start deleting.&lt;/p&gt;
+&lt;h2 id=&#34;the-aftermath&#34;&gt;The Aftermath&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Very&lt;/em&gt; fortunately, this had been so recent the builds with this code hadn&amp;rsquo;t
+made it out of the company, and each version was quickly tracked down and
+deleted so they wouldn&amp;rsquo;t be.&lt;/p&gt;
+&lt;p&gt;The code was fixed as well, of course — and hopefully in a way to prevent more
+accidents. We made an internal function for deleting &lt;em&gt;anything&lt;/em&gt;, and inside
+that we a) checked the path to make sure it wasn&amp;rsquo;t empty, b) checked that the
+path &lt;em&gt;actually existed&lt;/em&gt;, and c) enumerated over the items instead of making a
+system call, bailing on the first error (which would have been the first
+directory inside &amp;ldquo;/&amp;rdquo; if for some reason the first check was bypassed, since it
+wouldn&amp;rsquo;t recurse into directories).&lt;/p&gt;
+&lt;p&gt;Today, I&amp;rsquo;d use a library to manage the temp folders and files, and let it clean
+things up. Or if I had to, maybe just leave the files in the temp dir and let
+the machine clear them in the future. Or even not use a cache file — a couple
+of decades of machine performance means files that size probably wouldn&amp;rsquo;t cause
+anyone to blink these days.&lt;/p&gt;
+&lt;p&gt;But above all, I learned to double-check any code deleting files from to ensure
+the inputs are checked before we start deleting.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/categories/work-history/" term="Work History" label="Work History" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/coding/" term="Coding" label="Coding" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://cjhuitt.com/tags/bugs/" term="Bugs" label="Bugs" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Reading Review, 2023</title>
             <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/reading_review_2023/" />

@@ -2,17 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cjhuitt.com/tags/bugs/</loc>
+    <lastmod>2024-07-27T20:29:13-05:00</lastmod>
+  </url><url>
     <loc>https://cjhuitt.com/</loc>
-    <lastmod>2024-07-14T18:25:53-05:00</lastmod>
+    <lastmod>2024-07-27T20:29:13-05:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/categories/</loc>
+    <lastmod>2024-07-27T20:29:13-05:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/tags/coding/</loc>
+    <lastmod>2024-07-27T20:29:13-05:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/posts/</loc>
+    <lastmod>2024-07-27T20:29:13-05:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/tags/</loc>
+    <lastmod>2024-07-27T20:29:13-05:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/categories/work-history/</loc>
+    <lastmod>2024-07-27T20:29:13-05:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/posts/worst_bug_1/</loc>
+    <lastmod>2024-07-27T20:29:13-05:00</lastmod>
   </url><url>
     <loc>https://cjhuitt.com/now/</loc>
     <lastmod>2024-07-14T18:25:53-05:00</lastmod>
-  </url><url>
-    <loc>https://cjhuitt.com/categories/</loc>
-    <lastmod>2023-12-31T18:05:53-06:00</lastmod>
-  </url><url>
-    <loc>https://cjhuitt.com/posts/</loc>
-    <lastmod>2023-12-31T18:05:53-06:00</lastmod>
   </url><url>
     <loc>https://cjhuitt.com/tags/reading/</loc>
     <lastmod>2023-12-31T18:05:53-06:00</lastmod>
@@ -21,9 +36,6 @@
     <lastmod>2023-12-31T18:05:53-06:00</lastmod>
   </url><url>
     <loc>https://cjhuitt.com/categories/review/</loc>
-    <lastmod>2023-12-31T18:05:53-06:00</lastmod>
-  </url><url>
-    <loc>https://cjhuitt.com/tags/</loc>
     <lastmod>2023-12-31T18:05:53-06:00</lastmod>
   </url><url>
     <loc>https://cjhuitt.com/posts/4_the_words/</loc>
@@ -48,9 +60,6 @@
     <lastmod>2023-10-21T10:42:03-05:00</lastmod>
   </url><url>
     <loc>https://cjhuitt.com/tags/energy-abundance/</loc>
-    <lastmod>2023-10-21T10:42:03-05:00</lastmod>
-  </url><url>
-    <loc>https://cjhuitt.com/categories/work-history/</loc>
     <lastmod>2023-10-21T10:42:03-05:00</lastmod>
   </url><url>
     <loc>https://cjhuitt.com/tags/kickstarter/</loc>
@@ -171,9 +180,6 @@
     <lastmod>2023-12-06T15:34:12-06:00</lastmod>
   </url><url>
     <loc>https://cjhuitt.com/posts/manager_keep_coding/</loc>
-    <lastmod>2023-12-06T15:34:04-06:00</lastmod>
-  </url><url>
-    <loc>https://cjhuitt.com/tags/coding/</loc>
     <lastmod>2023-12-06T15:34:04-06:00</lastmod>
   </url><url>
     <loc>https://cjhuitt.com/tags/junior-devs/</loc>
