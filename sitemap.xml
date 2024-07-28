@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cjhuitt.com/</loc>
+    <lastmod>2024-07-28T17:04:31-05:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/posts/</loc>
+    <lastmod>2024-07-28T17:04:31-05:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/categories/</loc>
+    <lastmod>2024-07-28T17:04:31-05:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/posts/star_wars_acolyte/</loc>
+    <lastmod>2024-07-28T17:04:31-05:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/categories/reactions/</loc>
+    <lastmod>2024-07-28T17:04:31-05:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/tags/star-wars/</loc>
+    <lastmod>2024-07-28T17:04:31-05:00</lastmod>
+  </url><url>
+    <loc>https://cjhuitt.com/tags/</loc>
+    <lastmod>2024-07-28T17:04:31-05:00</lastmod>
+  </url><url>
     <loc>https://cjhuitt.com/tags/bugs/</loc>
     <lastmod>2024-07-27T20:29:13-05:00</lastmod>
   </url><url>
-    <loc>https://cjhuitt.com/</loc>
-    <lastmod>2024-07-27T20:29:13-05:00</lastmod>
-  </url><url>
-    <loc>https://cjhuitt.com/categories/</loc>
-    <lastmod>2024-07-27T20:29:13-05:00</lastmod>
-  </url><url>
     <loc>https://cjhuitt.com/tags/coding/</loc>
-    <lastmod>2024-07-27T20:29:13-05:00</lastmod>
-  </url><url>
-    <loc>https://cjhuitt.com/posts/</loc>
-    <lastmod>2024-07-27T20:29:13-05:00</lastmod>
-  </url><url>
-    <loc>https://cjhuitt.com/tags/</loc>
     <lastmod>2024-07-27T20:29:13-05:00</lastmod>
   </url><url>
     <loc>https://cjhuitt.com/categories/work-history/</loc>
