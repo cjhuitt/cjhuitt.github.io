@@ -4,16 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Caleb Huitt</title>
     <subtitle type="html">Personal page and blog of Caleb Huitt</subtitle>
-    <updated>2024-08-10T11:37:04-05:00</updated>
+    <updated>2024-09-29T20:06:28-05:00</updated>
     <id>https://cjhuitt.com/</id>
     <link rel="alternate" type="text/html" href="https://cjhuitt.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://cjhuitt.com/atom.xml" />
-    <author>
-            <name>Caleb Huitt</name>
-            <uri>https://cjhuitt.com/</uri>
-            </author>
+    
     <rights>©️ Caleb Huitt</rights>
-    <generator uri="https://gohugo.io/" version="0.131.0">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.134.3">Hugo</generator>
         <entry>
             <title type="text">Quick Thoughts: Star Wars Acolyte (Season 1)</title>
             <link rel="alternate" type="text/html" href="https://cjhuitt.com/posts/star_wars_acolyte/" />
@@ -21,11 +18,18 @@
             <updated>2024-07-28T17:04:31-05:00</updated>
             <published>2024-07-28T16:10:18-05:00</published>
             <author>
-                    <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
-            <rights>©️ Caleb Huitt</rights><summary type="html">Enough decades ago that I&amp;rsquo;d rather not get into specific numbers, I was delighted to learn that some of my favorite movies — the Star Wars trilogy — also had books! That continued the story!
-And thus I was introduced to the Star Wars Expanded Universe (before they even used the term &amp;ldquo;Expanded Universe&amp;rdquo;, and now Legacy).</summary>
+            <rights>©️ Caleb Huitt</rights><summary type="html">&lt;p&gt;Enough decades ago that I&amp;rsquo;d rather not get into specific numbers, I was
+delighted to learn that some of my favorite movies — the Star Wars trilogy —
+also had books! That continued the story!&lt;/p&gt;
+&lt;p&gt;And thus I was introduced to the Star Wars Expanded Universe (before they even
+used the term &amp;ldquo;Expanded Universe&amp;rdquo;, and now
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Star_Wars_in_other_media#Disney_acquisition_and_canon_restructuring&#34;&gt;Legacy&lt;/a&gt;).
+I started, as many people do, with Timothy Zahn&amp;rsquo;s
+&lt;a href=&#34;https://app.thestorygraph.com/books/0c7f2e19-0113-457b-a005-1ef9ff6b4848&#34;&gt;&lt;em&gt;Heir to the Empire&lt;/em&gt;&lt;/a&gt;
+and was introduced to Thrawn and Mara Jade. The trilogy was awesome, just like
+what I wanted out of the movies, and cemented my desire to read more.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;Enough decades ago that I&amp;rsquo;d rather not get into specific numbers, I was
 delighted to learn that some of my favorite movies — the Star Wars trilogy —
@@ -133,10 +137,12 @@ for storytelling. There’s no time to do anything interesting!&lt;/p&gt;
             <updated>2024-07-27T20:29:13-05:00</updated>
             <published>2024-07-27T20:26:34-05:00</published>
             <author>
-                    <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
-            <rights>©️ Caleb Huitt</rights><summary type="html">A recent discussion on a chat server about mistakes and what people learned from them reminded me of one of my worst (most potentially catastrophic) defects. This is from nearly two decades ago, so the exact details are fuzzy, but I definitely remember the key elements.</summary>
+            <rights>©️ Caleb Huitt</rights><summary type="html">&lt;p&gt;A recent discussion on a chat server about mistakes and what people learned
+from them reminded me of one of my worst (most potentially catastrophic)
+defects. This is from nearly two decades ago, so the exact details are fuzzy,
+but I definitely remember the key elements.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;A recent discussion on a chat server about mistakes and what people learned
 from them reminded me of one of my worst (most potentially catastrophic)
@@ -245,12 +251,13 @@ the inputs are checked before we start deleting.&lt;/p&gt;
             <updated>2023-12-31T18:05:53-06:00</updated>
             <published>2023-12-30T10:01:31-06:00</published>
             <author>
-                    <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
-            <rights>©️ Caleb Huitt</rights><summary type="html">Annual reading statistics and observations at the end of 2023…
-Most of this info taken from The Story Graph.
-Overall I started 68 books and finished 65. 2 were abandoned with no plans to revisit, and I&amp;rsquo;m currently reading 1 with little chance to finish before midnight.</summary>
+            <rights>©️ Caleb Huitt</rights><summary type="html">&lt;p&gt;Annual reading statistics and observations at the end of 2023…&lt;/p&gt;
+&lt;p&gt;Most of this info taken from &lt;a href=&#34;https://thestorygraph.com&#34;&gt;The Story Graph&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;overall&#34;&gt;Overall&lt;/h2&gt;
+&lt;p&gt;I started 68 books and finished 65. 2 were abandoned with no plans to revisit,
+and I&amp;rsquo;m currently reading 1 with little chance to finish before midnight.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;Annual reading statistics and observations at the end of 2023…&lt;/p&gt;
 &lt;p&gt;Most of this info taken from &lt;a href=&#34;https://thestorygraph.com&#34;&gt;The Story Graph&lt;/a&gt;.&lt;/p&gt;
@@ -330,7 +337,6 @@ Grant&lt;/a&gt;
             <updated>2024-08-10T11:35:49-05:00</updated>
             <published>2023-12-27T21:44:18-06:00</published>
             <author>
-                    <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
             <rights>©️ Caleb Huitt</rights><summary type="html">&lt;a href=&#34;4thewords.com&#34;&gt;4thewords&lt;/a&gt; has helped improve my writing habits for over 4 years now. It&amp;rsquo;s a wonderful RPG gamification for writers — if that&amp;rsquo;s you, you should check it out.</summary>
@@ -460,10 +466,14 @@ site won&amp;rsquo;t work with that method.&amp;#160;&lt;a href=&#34;https://cjh
             <updated>2023-10-21T10:42:03-05:00</updated>
             <published>2023-10-19T07:48:08-05:00</published>
             <author>
-                    <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
-            <rights>©️ Caleb Huitt</rights><summary type="html">I&amp;rsquo;ve told a few people this story, but in the 2000s I started a new job for a company that had reworked a lot of their software development process a couple years earlier, after a disastrous software release. A lot of that process ended up being much heavier and inflexible than necessary — another story for another day — but one thing in particular stands out to me: the code review process.</summary>
+            <rights>©️ Caleb Huitt</rights><summary type="html">&lt;p&gt;I&amp;rsquo;ve told a few people this story, but in the 2000s I started a new job for a
+company that had reworked a lot of their software development process a couple
+years earlier, after a disastrous software release.  A lot of that process
+ended up being much heavier and inflexible than necessary — another story for
+another day — but one thing in particular stands out to me: the code review
+process.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;I&amp;rsquo;ve told a few people this story, but in the 2000s I started a new job for a
 company that had reworked a lot of their software development process a couple
@@ -613,7 +623,6 @@ it.&amp;#160;&lt;a href=&#34;https://cjhuitt.com/posts/changing_circumstances_co
             <updated>2023-12-30T10:15:58-06:00</updated>
             <published>2023-10-07T19:38:27-05:00</published>
             <author>
-                    <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
             <rights>©️ Caleb Huitt</rights><summary type="html">&lt;a href=&#34;https://www.schlockmercenary.com&#34;&gt;Schlock Mercenary&lt;/a&gt; is a fantastically fun webcomic. The Howard Tayler is running a Kickstarter for the 18th book, and you should join in.</summary>
@@ -707,10 +716,14 @@ were still story, and still with the characters I showed up to read about.&amp;#
             <updated>2023-12-06T15:21:19-06:00</updated>
             <published>2020-04-12T19:24:19-06:00</published>
             <author>
-                    <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
-            <rights>©️ Caleb Huitt</rights><summary type="html">In the past few months, SARS-CoV-2 and COVID-19 have swept through much of the world and disrupted societal patterns everywhere – including how we get our work done. Software development is primarily knowledge work and not generally tethered to any one particular location, so we’ve been lucky that we can keep our jobs and keep working even during the various emergency declarations in place.</summary>
+            <rights>©️ Caleb Huitt</rights><summary type="html">&lt;p&gt;In the past few months, SARS-CoV-2 and COVID-19 have swept through much of the
+world and disrupted societal patterns everywhere – including how we get our
+work done.  Software development is primarily knowledge work and not generally
+tethered to any one particular location, so we’ve been lucky that we can keep
+our jobs and keep working even during the various emergency declarations in
+place.  Others are not so lucky, and I acknowledge that.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;In the past few months, SARS-CoV-2 and COVID-19 have swept through much of the
 world and disrupted societal patterns everywhere – including how we get our
@@ -941,11 +954,12 @@ overview&lt;/a&gt;.&lt;/p&gt;
             <updated>2023-12-06T14:50:35-06:00</updated>
             <published>2019-12-31T16:54:39-06:00</published>
             <author>
-                    <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
-            <rights>©️ Caleb Huitt</rights><summary type="html">Say you want to make an improvement to your work processes. How much time is feasible to spend making that improvement? I think most people assume it’s smaller than the math actually bears out.
-Let’s start with a really simple check using easy numbers.</summary>
+            <rights>©️ Caleb Huitt</rights><summary type="html">&lt;p&gt;Say you want to make an improvement to your work processes.  How much time is
+feasible to spend making that improvement?  I think most people assume it’s
+smaller than the math actually bears out.&lt;/p&gt;
+&lt;p&gt;Let’s start with a really simple check using easy numbers.  Assume:&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;Say you want to make an improvement to your work processes.  How much time is
 feasible to spend making that improvement?  I think most people assume it’s
@@ -967,102 +981,102 @@ are just sample numbers. What drives the biggest changes?&lt;/p&gt;
 &lt;h2 id=&#34;variations&#34;&gt;Variations&lt;/h2&gt;
 &lt;p&gt;Let’s vary individual inputs to get an idea how they interplay.&lt;/p&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Weeks Per Year&lt;/th&gt;
-&lt;th&gt;44&lt;/th&gt;
-&lt;th&gt;46&lt;/th&gt;
-&lt;th&gt;48&lt;/th&gt;
-&lt;th&gt;50&lt;/th&gt;
-&lt;th&gt;52&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Improvement Hours&lt;/td&gt;
-&lt;td&gt;17.6&lt;/td&gt;
-&lt;td&gt;18.4&lt;/td&gt;
-&lt;td&gt;19.2&lt;/td&gt;
-&lt;td&gt;20.0&lt;/td&gt;
-&lt;td&gt;20.8&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Weeks Per Year&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;44&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;46&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;48&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;50&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;52&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Improvement Hours&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;17.6&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;18.4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;19.2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;20.0&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;20.8&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;As you can see, the number of working weeks in a year doesn’t significantly
 alter the time you can dedicate to it – if you have 6 weeks time off (vacation,
 holiday, personal, etc), the payoff allows for 18 hours instead of 20 – not a
 significant change.&lt;/p&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Hours Per Week&lt;/th&gt;
-&lt;th&gt;36&lt;/th&gt;
-&lt;th&gt;40&lt;/th&gt;
-&lt;th&gt;45&lt;/th&gt;
-&lt;th&gt;50&lt;/th&gt;
-&lt;th&gt;60&lt;/th&gt;
-&lt;th&gt;80&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Improvement Hours&lt;/td&gt;
-&lt;td&gt;18&lt;/td&gt;
-&lt;td&gt;20&lt;/td&gt;
-&lt;td&gt;22.5&lt;/td&gt;
-&lt;td&gt;25&lt;/td&gt;
-&lt;td&gt;30&lt;/td&gt;
-&lt;td&gt;40&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Hours Per Week&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;36&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;40&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;45&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;50&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;60&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;80&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Improvement Hours&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;18&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;20&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;22.5&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;25&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;30&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;40&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Obviously, if you work fewer hours each week, it allows for less time
 investment, and more hours worked per week allows more time investment – but
 spending 40 hours of an 80-hour work week is still spending just half the week
 (hopefully you can do that a few times and use the time saved to work less).&lt;/p&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Percent Improvement&lt;/th&gt;
-&lt;th&gt;0.5&lt;/th&gt;
-&lt;th&gt;1.0&lt;/th&gt;
-&lt;th&gt;1.5&lt;/th&gt;
-&lt;th&gt;2.0&lt;/th&gt;
-&lt;th&gt;2.5&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Improvement Hours&lt;/td&gt;
-&lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;20&lt;/td&gt;
-&lt;td&gt;30&lt;/td&gt;
-&lt;td&gt;40&lt;/td&gt;
-&lt;td&gt;50&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Percent Improvement&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;0.5&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;1.0&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;1.5&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;2.0&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;2.5&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Improvement Hours&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;20&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;30&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;40&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;50&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Not much to say… but if you can find something that makes you 2% more
 efficient, you can spend a week on it and still have it pay off within a year.&lt;/p&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Certainty of Improvement&lt;/th&gt;
-&lt;th&gt;50&lt;/th&gt;
-&lt;th&gt;75&lt;/th&gt;
-&lt;th&gt;90&lt;/th&gt;
-&lt;th&gt;100&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Improvement Hours&lt;/td&gt;
-&lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;15&lt;/td&gt;
-&lt;td&gt;18&lt;/td&gt;
-&lt;td&gt;20&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Certainty of Improvement&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;50&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;75&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;90&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;100&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Improvement Hours&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;10&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;15&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;18&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;20&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;This is a linear scale on the amount of time that can be invested – the more
 uncertain, the less time allowed to create a margin of safety.&lt;/p&gt;
@@ -1078,66 +1092,66 @@ in the future isn’t as valuable as saving time now). Below is a simple table
 showing the improvement hours allowed for different additional years and
 discount values on those years.&lt;/p&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Years Out&lt;/th&gt;
-&lt;th&gt;0&lt;/th&gt;
-&lt;th&gt;1&lt;/th&gt;
-&lt;th&gt;2&lt;/th&gt;
-&lt;th&gt;3&lt;/th&gt;
-&lt;th&gt;4&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;0% Discount Rate&lt;/td&gt;
-&lt;td&gt;20&lt;/td&gt;
-&lt;td&gt;40&lt;/td&gt;
-&lt;td&gt;80&lt;/td&gt;
-&lt;td&gt;120&lt;/td&gt;
-&lt;td&gt;160&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10% Discount Rate&lt;/td&gt;
-&lt;td&gt;20&lt;/td&gt;
-&lt;td&gt;38&lt;/td&gt;
-&lt;td&gt;54&lt;/td&gt;
-&lt;td&gt;68&lt;/td&gt;
-&lt;td&gt;80&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;20% Discount Rate&lt;/td&gt;
-&lt;td&gt;20&lt;/td&gt;
-&lt;td&gt;36&lt;/td&gt;
-&lt;td&gt;48&lt;/td&gt;
-&lt;td&gt;56&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;60&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;30% Discount Rate&lt;/td&gt;
-&lt;td&gt;20&lt;/td&gt;
-&lt;td&gt;34&lt;/td&gt;
-&lt;td&gt;42&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;46&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;–&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;40% Discount Rate&lt;/td&gt;
-&lt;td&gt;20&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;36&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;–&lt;/td&gt;
-&lt;td&gt;–&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;50% Discount Rate&lt;/td&gt;
-&lt;td&gt;20&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;30&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;–&lt;/td&gt;
-&lt;td&gt;–&lt;/td&gt;
-&lt;td&gt;–&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Years Out&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;0&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;1&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;2&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;3&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;4&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;0% Discount Rate&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;20&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;40&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;80&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;120&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;160&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;10% Discount Rate&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;20&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;38&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;54&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;68&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;80&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;20% Discount Rate&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;20&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;36&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;48&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;56&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;60&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;30% Discount Rate&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;20&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;34&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;42&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;46&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;–&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;40% Discount Rate&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;20&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;32&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;36&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;–&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;–&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;50% Discount Rate&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;20&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;30&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;–&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;–&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;–&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;The number of years out should be chosen by how long into the future the
 process improvement is likely to be valid, and the discount rate by how certain
@@ -1171,30 +1185,30 @@ individuals.  Due to the ease of sharing code improvements, and the likelihood
 that process improvements would apply to multiple people in the company, the
 numbers start ballooning:&lt;/p&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;# of Developers Impacted&lt;/th&gt;
-&lt;th&gt;1&lt;/th&gt;
-&lt;th&gt;2&lt;/th&gt;
-&lt;th&gt;3&lt;/th&gt;
-&lt;th&gt;5&lt;/th&gt;
-&lt;th&gt;10&lt;/th&gt;
-&lt;th&gt;25&lt;/th&gt;
-&lt;th&gt;50&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Improvement Hours&lt;/td&gt;
-&lt;td&gt;20&lt;/td&gt;
-&lt;td&gt;40&lt;/td&gt;
-&lt;td&gt;60&lt;/td&gt;
-&lt;td&gt;100&lt;/td&gt;
-&lt;td&gt;200&lt;/td&gt;
-&lt;td&gt;500&lt;/td&gt;
-&lt;td&gt;1000&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;# of Developers Impacted&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;1&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;2&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;3&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;5&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;10&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;25&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;50&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Improvement Hours&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;20&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;40&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;60&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;100&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;200&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;500&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;1000&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;This is the real benefit of the improvements – and where you can argue for
 spending a lot of time.  It’s why companies can afford someone working on
@@ -1283,7 +1297,6 @@ were realistic.&amp;#160;&lt;a href=&#34;https://cjhuitt.com/posts/dedicated_imp
             <updated>2023-12-30T10:18:14-06:00</updated>
             <published>2019-12-28T11:26:06-06:00</published>
             <author>
-                    <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
             <rights>©️ Caleb Huitt</rights><summary type="html">In college, I learned how to accept feedback on work that wasn&amp;rsquo;t done very well. This 10-step process what I eventually internalized for accepting critical feedback.</summary>
@@ -1445,12 +1458,17 @@ other people interact with your work.&lt;/p&gt;
             <updated>2023-12-06T11:49:31-06:00</updated>
             <published>2019-12-27T12:11:06-06:00</published>
             <author>
-                    <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
-            <rights>©️ Caleb Huitt</rights><summary type="html">For some of my creations I’m completely open to feedback and criticism, while for others I’m defensive. Is there a pattern? How do I move away from being defensive?
-Paraphrased and anonymized from the Rands Leadership Slack
-When you make something and ask someone for critique, you’re making an effort to improve what you’ve made.</summary>
+            <rights>©️ Caleb Huitt</rights><summary type="html">&lt;blockquote&gt;
+&lt;p&gt;For some of my creations I’m completely open to feedback and criticism, while
+for others I’m defensive. Is there a pattern? How do I move away from being
+defensive?&lt;/p&gt;
+&lt;p&gt;Paraphrased and anonymized from the &lt;a href=&#34;https://randsinrepose.com/welcome-to-rands-leadership-slack/&#34;&gt;Rands Leadership Slack&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;When you make something and ask someone for critique, you’re making an effort
+to improve what you’ve made. Why, then, is it so easy to turn defensive and
+fight against receiving what you asked for?&lt;/p&gt;</summary>
             
                 <content type="html">&lt;blockquote&gt;
 &lt;p&gt;For some of my creations I’m completely open to feedback and criticism, while
@@ -1739,7 +1757,6 @@ diagnostic critiques nonsensical.&amp;#160;&lt;a href=&#34;https://cjhuitt.com/p
             <updated>2023-12-30T10:19:27-06:00</updated>
             <published>2019-10-27T11:26:42-06:00</published>
             <author>
-                    <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
             <rights>©️ Caleb Huitt</rights><summary type="html">The Iron Triangle is completely wrong for most software development projects. Let me rant a little about why…</summary>
@@ -1911,10 +1928,14 @@ quality code as loudly and often as you can.&lt;/p&gt;
             <updated>2023-12-06T14:45:21-06:00</updated>
             <published>2019-08-11T20:14:13-06:00</published>
             <author>
-                    <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
-            <rights>©️ Caleb Huitt</rights><summary type="html">Here’s the situation: there’s a big industry conference in about three months, and your businesspeople and marketing team want to make a big splashy announcement — the kind that needs 2 months or so to prep and pull off. They’ve got the go-to-market name, and a list of (slightly negotiable) features, but they need to know which can go on the posters and banners soon so they can get them designed and printed in time.</summary>
+            <rights>©️ Caleb Huitt</rights><summary type="html">&lt;p&gt;Here’s the situation: there’s a big industry conference in about three months,
+and your businesspeople and marketing team want to make a big splashy
+announcement — the kind that needs 2 months or so to prep and pull off.
+ They’ve got the go-to-market name, and a list of (slightly negotiable)
+features, but they need to know which can go on the posters and banners soon so
+they can get them designed and printed in time.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;Here’s the situation: there’s a big industry conference in about three months,
 and your businesspeople and marketing team want to make a big splashy
@@ -2210,7 +2231,6 @@ previously know.  Then keep everyone updated as things change.&lt;/p&gt;
             <updated>2023-12-30T10:21:43-06:00</updated>
             <published>2019-08-04T10:58:15-06:00</published>
             <author>
-                    <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
             <rights>©️ Caleb Huitt</rights><summary type="html">The system someone works in has a huge influence on how successful they are… as exemplified by undrafted, multiple-times fired, and American Football Hall-of-Fame member Kurt Warner</summary>
@@ -2351,10 +2371,12 @@ in their mastery.&lt;/p&gt;
             <updated>2023-12-06T15:34:31-06:00</updated>
             <published>2019-07-28T11:42:03-06:00</published>
             <author>
-                    <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
-            <rights>©️ Caleb Huitt</rights><summary type="html">One of your reports did something good. Or bad. Or maybe not a report, but a peer. Or someone else in the organization. Or you want to prompt someone for feedback. But – and here’s the problem – lots of people are bad at feedback.</summary>
+            <rights>©️ Caleb Huitt</rights><summary type="html">&lt;p&gt;One of your reports did something good.  Or bad. Or maybe not a report, but a
+peer.  Or someone else in the organization.  Or you want to prompt someone for
+feedback.  But – and here’s the problem – lots of people are bad at feedback.
+ Feedback is a gift, but many don’t give it for not knowing how to wrap.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;One of your reports did something good.  Or bad. Or maybe not a report, but a
 peer.  Or someone else in the organization.  Or you want to prompt someone for
@@ -2523,11 +2545,13 @@ appreciated and I’m more likely to write more articles like it. 😉&lt;/p&gt;
             <updated>2023-12-06T15:34:26-06:00</updated>
             <published>2019-07-21T08:07:38-06:00</published>
             <author>
-                    <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
-            <rights>©️ Caleb Huitt</rights><summary type="html">“How can I measure my employees for evaluation?” new managers commonly ask.
-It’s the wrong question. Not because evaluating and providing feedback to employees is wrong — frequent and consistent feedback is one of the keys to helping people grow. No, it’s wrong because it implies that measuring is the goal, and it’s not.</summary>
+            <rights>©️ Caleb Huitt</rights><summary type="html">&lt;p&gt;“How can I measure my employees for evaluation?” new managers commonly ask.&lt;/p&gt;
+&lt;p&gt;It’s the wrong question.  Not because evaluating and providing feedback to
+employees is wrong — frequent and consistent feedback is one of the keys to
+helping people grow.  No, it’s wrong because it implies that measuring is the
+goal, and it’s not.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;“How can I measure my employees for evaluation?” new managers commonly ask.&lt;/p&gt;
 &lt;p&gt;It’s the wrong question.  Not because evaluating and providing feedback to
@@ -2703,10 +2727,14 @@ shot and let me know how it goes.&lt;/p&gt;
             <updated>2023-12-06T15:34:12-06:00</updated>
             <published>2019-02-09T15:42:14-06:00</published>
             <author>
-                    <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
-            <rights>©️ Caleb Huitt</rights><summary type="html">There are a number of reasons to not call devs by terms they dislike, but let&amp;rsquo;s start with the first: they don&amp;rsquo;t like it. If you care about your team members, that should be enough in itself. And just in case it isn&amp;rsquo;t, developers are in demand right now, so at the small cost of changing a bit of your vocabulary, you can help keep one from leaving when the cost of replacing a developer is potentially so high.</summary>
+            <rights>©️ Caleb Huitt</rights><summary type="html">&lt;p&gt;There are a number of reasons to not call devs by terms they dislike, but let&amp;rsquo;s
+start with the first: they don&amp;rsquo;t like it.  If you care about your team members,
+that should be enough in itself.  And just in case it isn&amp;rsquo;t, developers are in
+demand right now, so at the small cost of changing a bit of your vocabulary,
+you can help keep one from leaving when the cost of replacing a developer is
+potentially so high.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;There are a number of reasons to not call devs by terms they dislike, but let&amp;rsquo;s
 start with the first: they don&amp;rsquo;t like it.  If you care about your team members,
@@ -2837,10 +2865,12 @@ to help them learn to moderate their language.&lt;/p&gt;
             <updated>2023-12-06T15:34:04-06:00</updated>
             <published>2019-01-27T17:59:53-06:00</published>
             <author>
-                    <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
-            <rights>©️ Caleb Huitt</rights><summary type="html">At one point, you were probably pretty good at slinging code. But once you got into people management &amp;ndash; the hiring and firing, the performance and salaries and reviews and career plans, the team and project coordination, and everything else that goes with it &amp;ndash; you realized that it takes up a huge amount of time.</summary>
+            <rights>©️ Caleb Huitt</rights><summary type="html">&lt;p&gt;At one point, you were probably pretty good at slinging code.  But once you got
+into people management &amp;ndash; the hiring and firing, the performance and salaries
+and reviews and career plans, the team and project coordination, and everything
+else that goes with it &amp;ndash; you realized that it takes up a huge amount of time.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;At one point, you were probably pretty good at slinging code.  But once you got
 into people management &amp;ndash; the hiring and firing, the performance and salaries
@@ -2978,10 +3008,12 @@ a manager.  Just don&amp;rsquo;t do so to the neglect of anything else.&lt;/p&gt
             <updated>2023-12-06T15:33:47-06:00</updated>
             <published>2018-12-27T16:42:33-06:00</published>
             <author>
-                    <name>Caleb Huitt</name>
                     <uri>https://cjhuitt.com/</uri>
                     </author>
-            <rights>©️ Caleb Huitt</rights><summary type="html">You have a few junior devs you&amp;rsquo;re trying to keep productive, but you don&amp;rsquo;t want to spoon-feed them answers. It&amp;rsquo;s better over the long term if they learn and figure it out themselves. Your boss might even have told you not avoid spoon-fed answers, but they also expect productivity out of the team.</summary>
+            <rights>©️ Caleb Huitt</rights><summary type="html">&lt;p&gt;You have a few junior devs you&amp;rsquo;re trying to keep productive, but you don&amp;rsquo;t want
+to spoon-feed them answers.  It&amp;rsquo;s better over the long term if they learn and
+figure it out themselves.  Your boss might even have told you not avoid
+spoon-fed answers, but they also expect productivity out of the team.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;You have a few junior devs you&amp;rsquo;re trying to keep productive, but you don&amp;rsquo;t want
 to spoon-feed them answers.  It&amp;rsquo;s better over the long term if they learn and
